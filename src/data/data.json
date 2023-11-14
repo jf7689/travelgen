@@ -1,0 +1,100 @@
+{
+    "landmarks": [
+        {
+            "name": "Avenue of the Baobabs",
+            "photo": "https://ak-d.tripcdn.com/images/100711000000rijpoD13E.jpg?proc=source%2Ftrip",
+            "maps_url": "https://www.google.com/maps/place/Baobab+Avenue/@-20.244582,44.3807139,12.33z/data=!4m6!3m5!1s0x1f5f2918a362d6a3:0xdb7ad03afd1f872b!8m2!3d-20.2504811!4d44.419695!16s%2Fm%2F03y8tsw?entry=ttu",
+            "country": "Madagascar"
+        },
+        {
+            "name": "Gardens by the Bay",
+            "photo": "https://www.primeaceslimousine.sg/wp-content/uploads/2021/10/dragonfly-and-kingfisher-lakes-main.jpg",
+            "maps_url": "https://www.google.com/maps/place/Gardens+by+the+Bay/@1.2810815,103.8615103,17.29z/data=!4m6!3m5!1s0x31da1904937e1633:0x62099677b59fca76!8m2!3d1.2815683!4d103.8636132!16zL20vMGIwaGI1?entry=ttu",
+            "country": "Singapore"
+        },
+        {
+            "name": "Giant's Causeway",
+            "photo": "https://h2.gifposter.com/bingImages/NIrelandGiants_EN-US3269727738_1920x1080.jpg",
+            "maps_url": "https://www.google.com/maps/place/Giant's+Causeway/@55.2377338,-6.5196771,15.25z/data=!4m6!3m5!1s0x48602944f4158f0f:0xf3228ca019de1fd2!8m2!3d55.2408073!4d-6.5115554!16zL20vMDFmcDRf?entry=ttu",
+            "country": "Northern Ireland"
+        },
+        {
+            "name": "Great Wall of China",
+            "photo": "https://i.natgeofe.com/n/20e923d3-042c-4045-942a-52308add6a75/great-wall-unesco-china.jpg",
+            "maps_url": "https://www.google.com/maps/place/Great+Wall+of+China/@40.237167,116.4134227,10.29z/data=!4m6!3m5!1s0x35f121d7687f2ccf:0xd040259b950522df!8m2!3d40.4319077!4d116.5703749!16zL20vMGQyZHEw?entry=ttu",
+            "country": "China"
+        },
+        {
+            "name": "Hang Son Doong",
+            "photo": "https://images.squarespace-cdn.com/content/v1/59332e0615d5dbea570b8b4f/1642841308705-9BEK1C7UZLFTRWJ56XV3/Son-Doong-Cave-Ryan-Deboodt-8e2574f9767f.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Hang+S%C6%A1n+%C4%90o%C3%B2ng/@17.9888459,106.0551706,9.42z/data=!4m6!3m5!1s0x3138c817a1e4e223:0x92ee0503cee94cae!8m2!3d17.5469315!4d106.1439998!16s%2Fm%2F05zmhlm?entry=ttu",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Iguazu Falls",
+            "photo": "https://iguazufalls.com/wp-content/uploads/bg-new-demo-iguazu.jpg",
+            "maps_url": "https://www.google.com/maps/place/Iguazu+Falls/@-25.6915628,-54.449905,15.42z/data=!4m10!1m2!2m1!1sIguazu+Falls!3m6!1s0x94f6ea7339e748e7:0x1c851fea816c962f!8m2!3d-25.690864!4d-54.4408161!15sCgxJZ3VhenUgRmFsbHOSAQl3YXRlcmZhbGzgAQA!16s%2Fg%2F11bw1_75m5?entry=ttu",
+            "country": ["Argentina", "Brazil"]
+        },
+        {
+            "name": "Keukenhof Park",
+            "photo": "https://www.netherlands-tourism.com/wp-content/uploads/2013/11/Keukenhof-4.jpg",
+            "maps_url": "https://www.google.com/maps/place/Keukenhof/@52.2699675,4.5449822,16.13z/data=!4m6!3m5!1s0x47c5c20434806f1d:0x37db0da72386280!8m2!3d52.2697087!4d4.5469336!16zL20vMDZmMHNk?entry=ttu",
+            "country": "Netherlands"
+        },
+        {
+            "name": "Lake Hillier",
+            "photo": "https://images.squarespace-cdn.com/content/v1/61b90293f0b0b504e06fb97e/1675234070519-UDOIX7Z3VSQW7Q29GUQ2/Lake-Hillier_3.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lake+Hillier/@-34.0937966,123.1905945,13.83z/data=!4m6!3m5!1s0x2a5ea265f67dad97:0xfdbcca913bacc932!8m2!3d-34.095!4d123.2027778!16s%2Fm%2F02z06dy?entry=ttu",
+            "country": "Australia"
+        },
+        {
+            "name": "Marble Caves",
+            "photo": "https://i.natgeofe.com/n/442fa1a6-4c76-40bc-84a5-766eecc3eeef/10226727.jpg",
+            "maps_url": "https://www.google.com/maps/place/Marble+Caves/@-46.6571832,-72.7076958,12.04z/data=!4m6!3m5!1s0xbd925614d5d5ff29:0xf457f3a4bfd0b78b!8m2!3d-46.6586031!4d-72.6275525!16s%2Fg%2F121y00df?entry=ttu",
+            "country": "Chile"
+        },
+        {
+            "name": "Napali Coast State Wilderness Park",
+            "photo": "https://s.hdnux.com/photos/01/26/70/71/22777447/4/rawImage.jpg",
+            "maps_url": "https://www.google.com/maps/place/N%C4%81+Pali+Coast+State+Wilderness+Park/@22.1366158,-159.6662491,12.33z/data=!4m6!3m5!1s0x7c06f8a4b13bbcef:0x3b12ba01041a867e!8m2!3d22.1682018!4d-159.6577381!16zL20vMDZjYjZu?entry=ttu",
+            "country": "United States"
+        },
+        {
+            "name": "Palace of Versailles",
+            "photo": "https://www.travelcaffeine.com/wp-content/uploads/2014/04/DSC_7049-as-Smart-Object-1-copy.jpg",
+            "maps_url": "https://www.google.com/maps/place/Palace+of+Versailles/@48.8058253,2.1128456,15.25z/data=!3m1!5s0x47e67dbeb2a2d1cb:0xfaa83490b67c0c36!4m6!3m5!1s0x47e67d94d7b14c75:0x538fcc15f59ce8f!8m2!3d48.8048649!4d2.1203554!16zL20vMGRfNjE?entry=ttu",
+            "country": "France"
+        },
+        {
+            "name": "Pamukkale Water Terraces",
+            "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/16/4c/17/merveilleux.jpg?w=1200&h=-1&s=1",
+            "maps_url": "https://www.google.com/maps/place/Travertines+of+Pamukkale/@37.9233387,29.1205107,16z/data=!4m6!3m5!1s0x14c7123a74a0e4d5:0x92c4f1427b58305b!8m2!3d37.9243909!4d29.1232377!16s%2Fg%2F11c20dk4hg?entry=ttu",
+            "country": "Turkiye"
+        },
+        {
+            "name": "Salar de Uyuni",
+            "photo": "https://images.rove.me/w_1920,q_85/xzw4pax2k3jahx4hagfh/bolivia-salt-flats-or-salar-de-uyuni.jpg",
+            "maps_url": "https://www.google.com/maps/place/Uyuni+Salt+Flat/@-19.6154381,-68.7150963,7.38z/data=!4m6!3m5!1s0x915584b325e18bd7:0xce4183a158278b6!8m2!3d-20.1337772!4d-67.4891345!16zL20vMDFjYmN2?entry=ttu",
+            "country": "Bolivia"
+        },
+        {
+            "name": "Taj Mahal",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+            "maps_url": "https://www.google.com/maps/place/Taj+Mahal/@27.1739138,78.0404519,16.71z/data=!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I?entry=ttu",
+            "country": "India"
+        },
+        {
+            "name": "Waitomo Glowworm Caves",
+            "photo": "https://images.rove.me/w_1920,q_85/qzfq4awhtabwee9nilrk/new-zealand-waitomo-glowworm-caves.jpg",
+            "maps_url": "https://www.google.com/maps/place/Waitomo+Glowworm+Caves/@-38.1139285,175.0389425,10.29z/data=!4m6!3m5!1s0x6d6cb77ef3e3547d:0x922cb1e1fd309ff2!8m2!3d-38.2607014!4d175.1036062!16s%2Fm%2F026vvg7?entry=ttu",
+            "country": "New Zealand"
+        },
+        {
+            "name": "Zhangjiajie National Forest Park",
+            "photo": "https://www.worldatlas.com/r/w1200-q80/upload/dd/ad/19/shutterstock-449250082.jpg",
+            "maps_url": "https://www.google.com/maps/place/Zhangjiajie+National+Forest+Park/@29.2865003,110.2780378,10.29z/data=!4m6!3m5!1s0x369bafca1a43aca1:0xa18079ec65a40b6f!8m2!3d29.315305!4d110.434767!16zL20vMDljZ3Bt?entry=ttu",
+            "country": "China"
+        }
+    ]
+}
