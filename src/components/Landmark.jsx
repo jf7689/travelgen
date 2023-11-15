@@ -2,11 +2,13 @@ import { useEffect, useState } from "react";
 import data from "../data/data.json";
 
 export function Landmark() {
+    // Landmark data
     const [landmark, setLandmark] = useState({
         name: "",
         photo: "",
         maps_url: "",
     });
+    
     // Get a random landmark from local json
     function randomLandmark() {
         const temp = data.landmarks[Math.floor(Math.random() * data.landmarks.length)];

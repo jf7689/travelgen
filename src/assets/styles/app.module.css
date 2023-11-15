@@ -1,0 +1,53 @@
+/* Variables */
+:root {
+    --main-bg-color: rgb(255, 229, 180);
+    --secondary-bg-color: rgb(180, 206, 255);
+}
+
+.box {
+    width: 300px;
+    height: 25px;
+    background-color: var(--secondary-bg-color);
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+* {
+    font: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+img, picture, svg, video {
+    display: block;
+    max-width: 100%;
+}
+
+body {
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: var(--main-bg-color);
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin: 0
+}
+
+a {
+    text-decoration: none;
+}
