@@ -8,6 +8,7 @@ export function Landmark() {
         photo: "",
         maps_url: "",
     });
+    const [landmarkList, setLandmarkList] = useState([]);
     
     // Get a random landmark from local json
     function randomLandmark() {
@@ -16,12 +17,19 @@ export function Landmark() {
             name: temp.name,
             photo: temp.photo,
             maps_url: temp.maps_url
-        })
+        });
+    }
+
+    function addLandmark() {
+        setLandmarkList( curLandmarks => {
+            return [...curLandmarks, landmark];
+        });
     }
 
     // Checking to see if varibles are as expected
     function check() {
         console.log(landmark);
+        console.log(landmarkList);
     }
 
     // Generate initial landmark when arriving on site
@@ -35,6 +43,7 @@ export function Landmark() {
             <a target="_blank" href={landmark.maps_url}>Google Maps</a>
             <div>
                 <img src={landmark.photo} alt={`Photo of ${landmark.name}`} width="1280px" height="720px"/>
+                <button onClick={addLandmark}>+</button>
             </div>
             <button onClick={randomLandmark}>Generate Landmark</button>
             <button onClick={check}>Check Landmark</button>
