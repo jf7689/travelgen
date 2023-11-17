@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
+import { TravelList } from "./TravelList";
 import data from "../data/data.json";
+
 
 export function Landmark() {
     // Landmark data
@@ -39,6 +41,7 @@ export function Landmark() {
 
     return (
         <>
+            <TravelList landmarkList={landmarkList}/>
             <h1>{landmark.name}</h1>
             <a target="_blank" href={landmark.maps_url}>Google Maps</a>
             <div>
