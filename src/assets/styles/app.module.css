@@ -2,12 +2,7 @@
 :root {
     --main-bg-color: rgb(255, 229, 180);
     --secondary-bg-color: rgb(180, 206, 255);
-}
-
-.box {
-    width: 300px;
-    height: 25px;
-    background-color: var(--secondary-bg-color);
+    --tertiary-bg-color: rgb(214, 228, 255);
 }
 
 *, *:before, *:after {

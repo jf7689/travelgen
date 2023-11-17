@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { TravelList } from "./TravelList";
 import data from "../data/data.json";
+import styles from "../assets/styles/landmark.module.css";
 
 
 export function Landmark() {
@@ -40,16 +41,18 @@ export function Landmark() {
     }, [])
 
     return (
-        <>
+        <div className={styles.container}>
             <TravelList landmarkList={landmarkList}/>
-            <h1>{landmark.name}</h1>
-            <a target="_blank" href={landmark.maps_url}>Google Maps</a>
             <div>
-                <img src={landmark.photo} alt={`Photo of ${landmark.name}`} width="1280px" height="720px"/>
-                <button onClick={addLandmark}>+</button>
+                <h1 className={styles.title}>{landmark.name}</h1>
+                <a target="_blank" href={landmark.maps_url}>Google Maps</a>
+                <div>
+                    <img className={styles.photo} src={landmark.photo} alt={`Photo of ${landmark.name}`}/>
+                    <button onClick={addLandmark}>+</button>
+                </div>
+                <button onClick={randomLandmark}>Generate Landmark</button>
+                <button onClick={check}>Check Landmark</button>
             </div>
-            <button onClick={randomLandmark}>Generate Landmark</button>
-            <button onClick={check}>Check Landmark</button>
-        </>
+        </div>
     );
 }

@@ -8,7 +8,6 @@ export default function App() {
         <header>
           <a href="">TravelGen</a>
         </header>
-        <button className={styles.box}> collapse</button>
         <div>
           <Landmark/>
         </div>

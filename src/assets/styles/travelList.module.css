@@ -1,0 +1,20 @@
+.container {
+    border: 1px solid black;
+}
+
+.expandable {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    width: 500px;
+    background-color: var(--secondary-bg-color);
+}
+
+.expandableContent {
+    background-color: var(--tertiary-bg-color);
+}
+
+.photo {
+    width: 480px;
+    height: 270px;
+}

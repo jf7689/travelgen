@@ -1,4 +1,5 @@
 import { useState } from "react";
+import styles from "../assets/styles/travelList.module.css"
 
 export function TravelList({ landmarkList }) {
     const [expanded, setExpanded] = useState(false);
@@ -8,18 +9,21 @@ export function TravelList({ landmarkList }) {
     }
 
     return (
-        <div onClick={expand}>
-            <h2>Travel List</h2>
+        <div className={styles.container} onClick={expand}>
+            <h2 className={styles.expandable}>Travel List <span>{expanded ? "-" : "+"}</span></h2>
+            <div className={styles.expandableContent}>
             {expanded ? (
                 landmarkList.map((location, i) => {
                     return (
                         <div key={i}>
                             <h3>{location.name}</h3>
-                            <img src={location.photo} alt={`Photo of ${location.name}`} width="480px" height="270px"/>
+                            <img className={styles.photo} src={location.photo} alt={`Photo of ${location.name}`}/>
                         </div>
                     );
                 })
-            ) : null}
+                ) : null
+            }
+            </div>
         </div>
     );
 }
