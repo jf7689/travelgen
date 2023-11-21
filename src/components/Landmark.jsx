@@ -10,17 +10,28 @@ export function Landmark() {
         name: "",
         photo: "",
         maps_url: "",
+        country: []
     });
     const [landmarkList, setLandmarkList] = useState([]);
+    const [lastIndex, setLastIndex] = useState(-1);
     
     // Get a random landmark from local json
     function randomLandmark() {
-        const temp = data.landmarks[Math.floor(Math.random() * data.landmarks.length)];
+        let rand = Math.floor(Math.random() * data.landmarks.length);
+        // Prevent repeat of last selection
+        while (rand === lastIndex)
+        {
+            rand = Math.floor(Math.random() * data.landmarks.length);
+        }
+
+        const temp = data.landmarks[rand];
         setLandmark({
             name: temp.name,
             photo: temp.photo,
-            maps_url: temp.maps_url
+            maps_url: temp.maps_url,
+            country: temp.country
         });
+        setLastIndex(rand);
     }
 
     function addLandmark() {

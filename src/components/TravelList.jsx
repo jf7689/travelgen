@@ -2,7 +2,7 @@ import { useState } from "react";
 import styles from "../assets/styles/travelList.module.css"
 
 export function TravelList({ landmarkList }) {
-    const [expanded, setExpanded] = useState(false);
+    const [expanded, setExpanded] = useState(true);
 
     function expand() {
         setExpanded(!expanded);
