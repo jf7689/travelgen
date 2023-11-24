@@ -9,15 +9,17 @@ export function TravelList({ landmarkList }) {
     }
 
     return (
-        <div className={styles.container} onClick={expand}>
-            <h2 className={styles.expandable}>Travel List <span>{expanded ? "-" : "+"}</span></h2>
+        <div className={styles.container}>
+            <h2 className={styles.expandable} onClick={expand}>Travel List <span>{expanded ? "-" : "+"}</span></h2>
             <div className={styles.expandableContent}>
             {expanded ? (
                 landmarkList.map((location, i) => {
                     return (
                         <div key={i}>
-                            <h3>{location.name}</h3>
-                            <img className={styles.photo} src={location.photo} alt={`Photo of ${location.name}`}/>
+                            <h3 className={styles.title}>{location.name}</h3>
+                            <div className={styles.photoContainer}>
+                                <img className={styles.photo} src={location.photo} alt={`Photo of ${location.name}`}/>
+                            </div>
                         </div>
                     );
                 })

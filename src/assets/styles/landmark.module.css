@@ -1,13 +1,18 @@
 .container {
     display: flex;
-    justify-content: space-between;
+}
+.listContainer {
+    margin-right: 10rem;
+}
+
+.genContainer {
+    width: 720px;
 }
 
 .title {
     text-align: center;
 }
 
-.photo {
-    width: 960px;
-    height: 540px;
+.button {
+    width: 100%;
 }

@@ -23,7 +23,6 @@ img, picture, svg, video {
 }
 
 body {
-    min-height: 100vh;
     font-family: Arial, sans-serif;
     background-color: var(--main-bg-color);
 }
@@ -45,4 +44,9 @@ h3 {
 
 a {
     text-decoration: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
 }

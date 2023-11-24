@@ -6,15 +6,29 @@
     display: flex;
     justify-content: space-between;
     padding: 0 1rem;
-    width: 500px;
+    width: 520px;
     background-color: var(--secondary-bg-color);
+    cursor: pointer;
 }
 
 .expandableContent {
     background-color: var(--tertiary-bg-color);
+    max-height: 800px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.title {
+    text-align: center;
+}
+
+.photoContainer {
+    display: flex;
+    justify-content: center;
 }
 
 .photo {
     width: 480px;
     height: 270px;
+    margin-bottom: .5rem;
 }

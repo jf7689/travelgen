@@ -8,7 +8,7 @@ export default function App() {
         <header>
           <a href="">TravelGen</a>
         </header>
-        <div>
+        <div className={styles.container}>
           <Landmark/>
         </div>
       </div>
