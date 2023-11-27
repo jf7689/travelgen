@@ -6,7 +6,9 @@ export default function App() {
     <>
       <div>
         <header>
-          <a href="">TravelGen</a>
+          <div className={styles.headerStyle}>
+            <a className={styles.logo} href="">TravelGen</a>
+          </div>
         </header>
         <div className={styles.container}>
           <Landmark/>

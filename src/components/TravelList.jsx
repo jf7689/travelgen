@@ -2,29 +2,39 @@ import { useState } from "react";
 import styles from "../assets/styles/travelList.module.css"
 
 export function TravelList({ landmarkList }) {
-    const [expanded, setExpanded] = useState(true);
+    const [expandedList, setExpandedList] = useState(true);
+    const [expandedDownload, setExpandedDownload] = useState(false);
 
-    function expand() {
-        setExpanded(!expanded);
+    function expandDownload() {
+        setExpandedDownload(!expandedDownload);
+    }
+
+    function expandList() {
+        setExpandedList(!expandedList);
     }
 
     return (
         <div className={styles.container}>
-            <h2 className={styles.expandable} onClick={expand}>Travel List <span>{expanded ? "-" : "+"}</span></h2>
-            <div className={styles.expandableContent}>
-            {expanded ? (
-                landmarkList.map((location, i) => {
-                    return (
-                        <div key={i}>
-                            <h3 className={styles.title}>{location.name}</h3>
-                            <div className={styles.photoContainer}>
-                                <img className={styles.photo} src={location.photo} alt={`Photo of ${location.name}`}/>
+            <div>
+                <h2 className={styles.expandable} onClick={expandDownload}>Download Settings <span>{expandedDownload ? "-" : "+"}</span></h2>
+            </div>
+            <div>
+                <h2 className={styles.expandable} onClick={expandList}>Travel List <span>{expandedList ? "-" : "+"}</span></h2>
+                <div className={styles.expandableContent}>
+                {expandedList ? (
+                    landmarkList.map((location, i) => {
+                        return (
+                            <div key={i}>
+                                <h3 className={styles.title}>{location.name}</h3>
+                                <div className={styles.photoContainer}>
+                                    <img className={styles.photo} src={location.photo} alt={`Photo of ${location.name}`}/>
+                                </div>
                             </div>
-                        </div>
-                    );
-                })
-                ) : null
-            }
+                        );
+                    })
+                    ) : null
+                }
+                </div>
             </div>
         </div>
     );
