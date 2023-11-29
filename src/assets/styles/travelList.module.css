@@ -11,9 +11,14 @@
     cursor: pointer;
 }
 
+.expandableDownload {
+    background-color: var(--tertiary-bg-color);
+    height: 100px;
+}
+
 .expandableContent {
     background-color: var(--tertiary-bg-color);
-    max-height: 800px;
+    max-height: 650px;
     overflow: scroll;
     overflow-x: hidden;
 }

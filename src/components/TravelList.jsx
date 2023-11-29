@@ -13,10 +13,29 @@ export function TravelList({ landmarkList }) {
         setExpandedList(!expandedList);
     }
 
+    function downloadList() {
+        const jsonString = `data:text/json;chatset=utf-8,${encodeURIComponent(
+          JSON.stringify(landmarkList, null, 4)
+        )}`;
+        const link = document.createElement("a");
+        link.href = jsonString;
+        link.download = "TravelList.json";
+    
+        link.click();
+      };
+
     return (
         <div className={styles.container}>
             <div>
                 <h2 className={styles.expandable} onClick={expandDownload}>Download Settings <span>{expandedDownload ? "-" : "+"}</span></h2>
+                <div>
+                {expandedDownload ? (
+                        <div className={styles.expandableDownload}> 
+                            <button onClick={downloadList}>Download</button>
+                        </div>
+                    ) : null
+                }
+                </div>
             </div>
             <div>
                 <h2 className={styles.expandable} onClick={expandList}>Travel List <span>{expandedList ? "-" : "+"}</span></h2>
