@@ -13,10 +13,21 @@ export function TravelList({ landmarkList }) {
         setExpandedList(!expandedList);
     }
 
-    function downloadList() {
+    // Import a previously made travel list
+    function importList() {
+        const file = document.getElementById("jsonFile").files[0];
+        console.log(file);
+    }
+
+    // Download travel list as json file
+    function exportList() {
+        // String for href
         const jsonString = `data:text/json;chatset=utf-8,${encodeURIComponent(
-          JSON.stringify(landmarkList, null, 4)
+            // Convert list of landmarks to json with formatting
+            JSON.stringify(landmarkList, null, 4)
         )}`;
+
+        // Download
         const link = document.createElement("a");
         link.href = jsonString;
         link.download = "TravelList.json";
@@ -27,11 +38,15 @@ export function TravelList({ landmarkList }) {
     return (
         <div className={styles.container}>
             <div>
-                <h2 className={styles.expandable} onClick={expandDownload}>Download Settings <span>{expandedDownload ? "-" : "+"}</span></h2>
+                <h2 className={styles.expandable} onClick={expandDownload}>Import/Export JSON <span>{expandedDownload ? "-" : "+"}</span></h2>
                 <div>
                 {expandedDownload ? (
-                        <div className={styles.expandableDownload}> 
-                            <button onClick={downloadList}>Download</button>
+                        <div className={styles.expandableDownload}>
+                            <input type="file" id="jsonFile"/>
+                            <button onClick={importList}>Import</button>
+                            <div>
+                                <button onClick={exportList}>Export</button>
+                            </div> 
                         </div>
                     ) : null
                 }
