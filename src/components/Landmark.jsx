@@ -69,7 +69,7 @@ export function Landmark() {
                     <img className={styles.photo} src={landmark.photo} alt={`Photo of ${landmark.name}`}/>
                     <button onClick={addLandmark}>+</button>
                 </div>
-                <button className={styles.button} onClick={randomLandmark}>Generate Landmark</button>
+                <button className={styles.genBtn} onClick={randomLandmark}>Generate Landmark</button>
                 <div>
                 <button onClick={check}>Check Landmark</button>
                 </div>

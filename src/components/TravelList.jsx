@@ -46,10 +46,12 @@ export function TravelList({ landmarkList, listCallback}) {
                 <div>
                 {expandedDownload ? (
                         <div className={styles.expandableDownload}>
-                            <input type="file" id="jsonFile"/>
-                            <button onClick={importList}>Import</button>
-                            <div>
-                                <button onClick={exportList}>Export</button>
+                            <div className={styles.import}>
+                                <input type="file" id="jsonFile"/>
+                                <button className={styles.fileButton} onClick={importList}>Import</button>
+                            </div>
+                            <div className={styles.export}>
+                                <button className={styles.fileButton} onClick={exportList}>Export</button>
                             </div> 
                         </div>
                     ) : null
