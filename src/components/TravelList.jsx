@@ -1,7 +1,7 @@
 import { useState } from "react";
 import styles from "../assets/styles/travelList.module.css"
 
-export function TravelList({ landmarkList }) {
+export function TravelList({ landmarkList, listCallback}) {
     const [expandedList, setExpandedList] = useState(true);
     const [expandedDownload, setExpandedDownload] = useState(false);
 
@@ -15,8 +15,12 @@ export function TravelList({ landmarkList }) {
 
     // Import a previously made travel list
     function importList() {
-        const file = document.getElementById("jsonFile").files[0];
-        console.log(file);
+        const file = document.getElementById("jsonFile");
+
+        // Read file from input tag and fill travel list section
+        new Response(file.files[0]).json().then(json => {
+            listCallback(json);
+        })
     }
 
     // Download travel list as json file

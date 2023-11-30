@@ -34,10 +34,16 @@ export function Landmark() {
         setLastIndex(rand);
     }
 
+    // Add landmark
     function addLandmark() {
         setLandmarkList( curLandmarks => {
             return [...curLandmarks, landmark];
         });
+    }
+
+    // Set landmarkList from a child component
+    function listCallback(importList) {
+        setLandmarkList(importList);
     }
 
     // Checking to see if varibles are as expected
@@ -54,7 +60,7 @@ export function Landmark() {
     return (
         <div className={styles.container}>
             <div className={styles.listContainer}>
-                <TravelList landmarkList={landmarkList}/>
+                <TravelList landmarkList={landmarkList} listCallback={listCallback}/>
             </div>
             <div className={styles.genContainer}>
                 <h1 className={styles.title}>{landmark.name}</h1>
