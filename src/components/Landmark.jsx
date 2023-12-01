@@ -41,6 +41,11 @@ export function Landmark() {
         });
     }
 
+    // Clear Travel List
+    function clearTraveList() {
+        setLandmarkList([]);
+    }
+
     // Set landmarkList from a child component
     function listCallback(importList) {
         setLandmarkList(importList);
@@ -67,9 +72,10 @@ export function Landmark() {
                 <a target="_blank" href={landmark.maps_url}>Google Maps</a>
                 <div>
                     <img className={styles.photo} src={landmark.photo} alt={`Photo of ${landmark.name}`}/>
-                    <button onClick={addLandmark}>+</button>
                 </div>
-                <button className={styles.genBtn} onClick={randomLandmark}>Generate Landmark</button>
+                <button className={styles.landmarkBtn} onClick={randomLandmark}>Generate Landmark</button>
+                <button className={styles.landmarkBtn} onClick={addLandmark}>Add To Travel List</button>
+                <button className={styles.landmarkBtn} onClick={clearTraveList}>Reset Travel List</button>
                 <div>
                 <button onClick={check}>Check Landmark</button>
                 </div>

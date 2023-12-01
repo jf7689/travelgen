@@ -37,7 +37,14 @@ export function TravelList({ landmarkList, listCallback}) {
         link.download = "TravelList.json";
     
         link.click();
-      };
+    }
+
+    // Remove specified landmark from travel list
+    function removeLandmark(index) {
+        let tempList = [...landmarkList];
+        tempList.splice(index, 1)
+        listCallback(tempList);
+    }
 
     return (
         <div className={styles.container}>
@@ -68,6 +75,7 @@ export function TravelList({ landmarkList, listCallback}) {
                                 <h3 className={styles.title}>{location.name}</h3>
                                 <div className={styles.photoContainer}>
                                     <img className={styles.photo} src={location.photo} alt={`Photo of ${location.name}`}/>
+                                    <div className={styles.removeBtn} onClick={() => removeLandmark(i)}>Remove</div>
                                 </div>
                             </div>
                         );
