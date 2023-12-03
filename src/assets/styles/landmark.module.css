@@ -13,6 +13,17 @@
     text-align: center;
 }
 
+.mapContainer {
+    display: flex;
+    justify-content: center;
+    margin: .5rem 0;
+}
+
+.mapIcon {
+    width: 20px;
+    height: 20px;
+}
+
 .photo {
     width: 720px;
     height: 480px;

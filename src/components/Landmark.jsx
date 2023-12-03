@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { TravelList } from "./TravelList";
 import data from "../data/data.json";
 import styles from "../assets/styles/landmark.module.css";
+import mapIcon from "../assets/images/mapsIcon.png"
 
 
 export function Landmark() {
@@ -69,7 +70,10 @@ export function Landmark() {
             </div>
             <div className={styles.genContainer}>
                 <h1 className={styles.title}>{landmark.name}</h1>
-                <a target="_blank" href={landmark.maps_url}>Google Maps</a>
+                    <a className={styles.mapContainer} target="_blank" href={landmark.maps_url}>
+                        <img className={styles.mapIcon} src={mapIcon} alt="Google maps icon"/>
+                        Google Maps
+                    </a>
                 <div>
                     <img className={styles.photo} src={landmark.photo} alt={`Photo of ${landmark.name}`}/>
                 </div>
