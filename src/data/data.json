@@ -1,10 +1,376 @@
 {
     "landmarks": [
         {
+            "name": "Acadia National Park",
+            "photo": "https://theworldtravelguy.com/wp-content/uploads/2022/04/DSCF7356_1200-3.jpg",
+            "maps_url": "https://www.google.com/maps/place/Acadia+National+Park/@44.3219301,-68.3479677,12z/data=!4m6!3m5!1s0x4caea3b20ea22925:0x62df220efc555584!8m2!3d44.3385559!4d-68.2733346!16zL20vMGd5MTQ?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Acropolis of Athens",
+            "photo": "https://www.shoreexcursionsgroup.com/img/tour/EUATINTRO-2.jpg",
+            "maps_url": "https://www.google.com/maps/place/Acropolis+of+Athens/@37.9715365,23.7231743,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd1837f5acf3:0x5c97c042f5eb0df6!8m2!3d37.9715323!4d23.7257492!16zL20vMHdqag?entry=ttu",
+            "country": ["Greece"]
+        },
+        {
+            "name": "Alcatraz Island",
+            "photo": "https://media.cntraveler.com/photos/5a846a4d86e4b63c297d4802/16:9/w_2560,c_limit/Alcatraz_GettyImages-520527904.jpg",
+            "maps_url": "https://www.google.com/maps/place/Alcatraz+Island/@37.8267922,-122.4240617,17.71z/data=!4m6!3m5!1s0x808580f9b38c1c99:0xd15844a27f9a58a5!8m2!3d37.8269775!4d-122.4229555!16zL20vMGg1OTQ?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Algarve",
+            "photo": "https://www.telegraph.co.uk/content/dam/property/2019/08/01/TELEMMGLPICT000026455417_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Faro+District,+Portugal/@37.2467404,-8.4553881,10z/data=!4m6!3m5!1s0xd0554ee55d1cfef:0x80e2652e12910e45!8m2!3d37.0179538!4d-7.930834!16zL20vMDFnZzg0?entry=ttu",
+            "country": ["Portugal"]
+        },
+        {
+            "name": "Alhambra",
+            "photo": "https://h2.gifposter.com/bingImages/Alhambra_EN-US9442124079_1920x1080.jpg",
+            "maps_url": "https://www.google.com/maps/place/Alhambra/@37.1760142,-3.5894395,17z/data=!4m6!3m5!1s0xd71fcb7977fb93b:0x808dd1ef1221a27f!8m2!3d37.1760783!4d-3.5881413!16zL20vMDdoX2o?entry=ttu",
+            "country": ["Spain"]
+        },
+        {
+            "name": "Amalfi Coast",
+            "photo": "https://www.fditaly.com/wp-content/uploads/2022/06/sunset-in-amalfi-italy-2021-08-26-18-12-22-utc-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Amalfi+Coast/@40.6334017,14.6014916,18z/data=!3m1!4b1!4m6!3m5!1s0x133b95adc34c71a1:0x4ce8cf14c94f4cdc!8m2!3d40.6333389!4d14.6028963!16zL20vMDNxY2Rz?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Amazon Rainforest",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/Amazon-Rain-Forest.jpg",
+            "maps_url": "https://www.google.com/maps/place/Amazon+Rainforest/@-3.4453413,-62.3144536,11.21z/data=!4m6!3m5!1s0x91e8605342744385:0x3d3c6dc1394a7fc7!8m2!3d-3.4653053!4d-62.2158805!16zL20vMGN4NHA?entry=ttu",
+            "country": ["Brazil"]
+        },
+        {
+            "name": "Angel Falls",
+            "photo": "https://wallpapercave.com/wp/wp2540910.jpg",
+            "maps_url": "https://www.google.com/maps/place/Angel+Falls/@5.9725164,-62.5436436,14.29z/data=!4m6!3m5!1s0x8dc6be717030a879:0x73210e8bf60fdfe7!8m2!3d5.9701256!4d-62.5362199!16zL20vMDFtd2R3?entry=ttu",
+            "country": ["Venezuela"]
+        },
+        {
+            "name": "Angkor Wat",
+            "photo": "https://cdn.expeditions.com/globalassets/expedition-stories/cambodia-up-close-7-must-see-sites-at-angkor-wat/angkor-wat-main.jpg?width=1920&height=1080&mode=crop&scale=none&quality=50",
+            "maps_url": "https://www.google.com/maps/place/Angkor+Wat/@13.4124745,103.8644108,17z/data=!3m1!4b1!4m6!3m5!1s0x3110168aea9a272d:0x3eaba81157b0418d!8m2!3d13.4124693!4d103.8669857!16zL20vMDE5eGZs?entry=ttu",
+            "country": ["Cambodia"]
+        },
+        {
+            "name": "Anse Source d'Argent",
+            "photo": "https://www.jonnymelon.com/wp-content/uploads/2022/01/La-Digue-Seychelles-108.jpg",
+            "maps_url": "https://www.google.com/maps/place/Anse+Source+d'Argent/@-4.3710907,55.8219639,15z/data=!4m6!3m5!1s0x231fecdea4abb367:0x5146808cee435a57!8m2!3d-4.3715402!4d55.8272425!16s%2Fg%2F11dzvw6l4m?entry=ttu",
+            "country": ["Seychelles"]
+        },
+        {
+            "name": "Antelope Canyon",
+            "photo": "https://cdn.mos.cms.futurecdn.net/eUmL6FWSoRYZdNsTJBBfi.jpg",
+            "maps_url": "https://www.google.com/maps/place/Antelope+Canyon/@36.8619561,-111.3769774,16.92z/data=!4m6!3m5!1s0x873411f49ba00e0b:0x98361608ad6aa79b!8m2!3d36.8619103!4d-111.3743302!16zL20vMDczcDE0?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Arashiyama Bamboo Forest",
+            "photo": "https://img.peapix.com/1354dc02860049f9b48341568dd0ce88_1080.jpg",
+            "maps_url": "https://www.google.com/maps/place/Arashiyama+Bamboo+Forest/@35.0168231,135.6687264,17z/data=!3m1!4b1!4m6!3m5!1s0x6001abebbf5c8bad:0xfb9ffc7bbdd67cdd!8m2!3d35.0168187!4d135.6713013!16s%2Fg%2F11bx1hnfm7?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
+            "name": "Arc de Triomphe",
+            "photo": "https://cdn-imgix.headout.com/tour/13667/TOUR-IMAGE/e7bd3f2f-781a-4d34-a743-d0f8431d11a6-7504-paris-skip-the-line--arc-de-triomphe-rooftop-tickets-03.jpg?fm=pjpg&auto=compress",
+            "maps_url": "https://www.google.com/maps/place/Arc+de+Triomphe/@48.8738023,2.2932251,17z/data=!4m6!3m5!1s0x47e66fec70fb1d8f:0xd9b5676e112e643d!8m2!3d48.8737917!4d2.2950275!16zL20vMHp2Xw?entry=ttu",
+            "country": ["France"]
+        },
+        {
+            "name": "Atacama Desert",
+            "photo": "https://i.natgeofe.com/n/4c363dfb-f2c7-4a89-9547-a06318a87fc5/valley-moon-atacama-desert-chile_16x9.jpg",
+            "maps_url": "https://www.google.com/maps/place/Atacama+Desert/@-23.8569987,-69.2397104,11.79z/data=!4m6!3m5!1s0x96af46527fef1c47:0x34dbbb7aa8223dc!8m2!3d-23.8634189!4d-69.1328491!16zL20vMDExN2c?entry=ttu",
+            "country": ["Chile"]
+        },
+        {
+            "name": "Atomium",
+            "photo": "https://atomium.be/Content/Images/Atomium_Style.html.jpg",
+            "maps_url": "https://www.google.com/maps/place/Atomium/@50.8947535,4.3398595,17z/data=!4m6!3m5!1s0x47c3c3ac00000001:0x5293071d68a63709!8m2!3d50.8948787!4d4.3415547!16zL20vMGtmaG0?entry=ttu",
+            "country": ["Belgium"]
+        },
+        {
             "name": "Avenue of the Baobabs",
             "photo": "https://ak-d.tripcdn.com/images/100711000000rijpoD13E.jpg?proc=source%2Ftrip",
             "maps_url": "https://www.google.com/maps/place/Baobab+Avenue/@-20.244582,44.3807139,12.33z/data=!4m6!3m5!1s0x1f5f2918a362d6a3:0xdb7ad03afd1f872b!8m2!3d-20.2504811!4d44.419695!16s%2Fm%2F03y8tsw?entry=ttu",
             "country": ["Madagascar"]
+        },
+        {
+            "name": "Ban Gioc Waterfalls",
+            "photo": "https://southeastasiabackpacker.com/wp-content/uploads/2020/01/ban-gioc-waterfall-4160385_1920.jpg",
+            "maps_url": "https://www.google.com/maps/place/Ban+Gioc+Waterfalls/@22.8546786,106.7215237,17z/data=!3m1!4b1!4m6!3m5!1s0x36ca643ca72ac71b:0xd00c006bac4a0f37!8m2!3d22.8546786!4d106.7240986!16zL20vMGc2X2dt?entry=ttu",
+            "country": ["China", "Vietnam"]
+        },
+        {
+            "name": "Banff National Park",
+            "photo": "https://img.peapix.com/3cf7e4a1bcfd48c98303eb01f7b4ca1d_1080.jpg",
+            "maps_url": "https://www.google.com/maps/place/Banff+National+Park/@51.4418879,-116.0314235,11.33z/data=!4m6!3m5!1s0x5377662b8c929195:0xc09de268accad7e6!8m2!3d51.4968464!4d-115.9280562!16zL20vMDFkcTBo?entry=ttu",
+            "country": ["Canada"]
+        },
+        {
+            "name": "Batu Caves",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Batu_Caves_stairs_2022-05.jpg",
+            "maps_url": "https://www.google.com/maps/place/Batu+Caves/@3.2383911,101.6803676,15.46z/data=!4m6!3m5!1s0x31cc470c8949a805:0xf2bfebb2b36f9ef9!8m2!3d3.2378844!4d101.6840385!16zL20vMHN5cDk?entry=ttu",
+            "country": ["Malaysia"]
+        },
+        {
+            "name": "Big Ben",
+            "photo": "https://images8.alphacoders.com/835/835050.jpg",
+            "maps_url": "https://www.google.com/maps/place/Big+Ben/@51.5004386,-0.1264922,17z/data=!3m1!5s0x47d8e55e300273ad:0x64ade3f4995c75cd!4m6!3m5!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9!8m2!3d51.5007292!4d-0.1246254!16zL20vMDI2eWRj?entry=ttu",
+            "country": ["England"]
+        },
+        {
+            "name": "Blue Lagoon",
+            "photo": "https://images.squarespace-cdn.com/content/v1/62deaf2572894d2dab2f7c85/f007fd14-ce27-4cf1-978d-ec2a9eb10477/Blue+Lagoon+Aerial+In+Iceland.jpg",
+            "maps_url": "https://www.google.com/maps/place/Blue+Lagoon/@63.8792038,-22.450518,15.96z/data=!4m6!3m5!1s0x48d61d66aff7df0d:0xf3747a894416f06e!8m2!3d63.8807176!4d-22.4472964!16zL20vMDdranE2?entry=ttu",
+            "country": ["Iceland"]
+        },
+        {
+            "name": "Bondi Beach",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bondi_from_above.jpg",
+            "maps_url": "https://www.google.com/maps/place/Bondi+Beach/@-33.8920955,151.2755464,17z/data=!4m6!3m5!1s0x6b12ad9c447281c7:0x20c31809c62de978!8m2!3d-33.8914755!4d151.2766845!16zL20vMDIwNzcy?entry=ttu",
+            "country": ["Australia"]
+        },
+        {
+            "name": "Bora Bora",
+            "photo": "https://assets.hiltonstatic.com/images/c_fill,w_1920,h_1080,q_70,f_auto,g_auto/v1636425183/dx/wp/pptbnci-conrad-bora-bora-nui/media-library/CBBN-Resort-Exterior/CBBN-Resort-Exterior.jpg?_i=AA",
+            "maps_url": "https://www.google.com/maps/place/Bora-Bora,+French+Polynesia/@-16.4919882,-151.7540074,13.33z/data=!4m9!1m2!2m1!1sBora-Bora!3m5!1s0x76bdbc53dc9fa52b:0x9bef76bb168bc559!8m2!3d-16.5058512!4d-151.7422329!16s%2Fg%2F121pvydw?entry=ttu",
+            "country": ["French Polynesia"]
+        },
+        {
+            "name": "Borobudur Temple",
+            "photo": "https://www.worldatlas.com/upload/51/55/15/shutterstock-1492742999.jpg",
+            "maps_url": "https://www.google.com/maps/place/Borobudur+Temple/@-7.6081769,110.2018845,17z/data=!4m6!3m5!1s0x2e7a8cf009a7d697:0xdd34334744dc3cb!8m2!3d-7.6078738!4d110.2037513!16zL20vMDFoemNq?entry=ttu",
+            "country": ["Indonesia"]
+        },
+        {
+            "name": "Boulders Beach",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-point-tour-families.jpg",
+            "maps_url": "https://www.google.com/maps/place/Boulders+Beach/@-34.1956108,18.4477836,17z/data=!3m1!4b1!4m6!3m5!1s0x1dcc3e360872e029:0x7cbce00180f42910!8m2!3d-34.1956153!4d18.4503585!16zL20vMGJtNXBf?entry=ttu",
+            "country": ["South Africa"]
+        },
+        {
+            "name": "Brandenburg Gate",
+            "photo": "https://media.cntraveler.com/photos/5b914e80d5806340ca438db1/16:9/w_2560,c_limit/BrandenburgGate_2018_GettyImages-549093677.jpg",
+            "maps_url": "https://www.google.com/maps/place/Brandenburg+Gate/@52.5162704,13.3761628,17z/data=!3m1!5s0x47a851c6f6399a69:0xcda158542550640e!4m6!3m5!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162746!4d13.3777041!16zL20vMDE0a2Y4?entry=ttu",
+            "country": ["Germany"]
+        },
+        {
+            "name": "Buckingham Palace",
+            "photo": "https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2023-08/shutterstock_457813381.jpg?VersionId=R3h3ifKK1aH_pIHW0p7e42wWM5SAOkpv",
+            "maps_url": "https://www.google.com/maps/place/Buckingham+Palace/@51.5012738,-0.1435422,17z/data=!3m1!5s0x487605276d38fb6b:0xe1c60228d7946675!4m6!3m5!1s0x48760520cd5b5eb5:0xa26abf514d902a7!8m2!3d51.501364!4d-0.14189!16zL20vMDE5OGc?entry=ttu",
+            "country": ["England"]
+        },
+        {
+            "name": "Bungle Bungle Range",
+            "photo": "https://res.cloudinary.com/simpleview/image/upload/v1689564030/clients/australiasnwtourism/Bungle_Bungle_Range_from_the_air_Image_Tourism_Western_Australia_120273_3_52473f71-0c52-4701-b116-a5e0b4febf29.jpg",
+            "maps_url": "https://www.google.com/maps/place/The+Bungle+Bungles/@-17.4869845,128.3669088,14.96z/data=!4m6!3m5!1s0x2c9c4aa742da599b:0xda80751011a83678!8m2!3d-17.4891658!4d128.3702558!16s%2Fg%2F11b6dw30qk?entry=ttu",
+            "country": ["Australia"]
+        },
+        {
+            "name": "Burj Khalifa",
+            "photo": "https://media.cnn.com/api/v1/images/stellar/prod/180301130119-burj-khalifa-dubai-guide-8.jpg?q=w_3000,h_2003,x_0,y_0,c_fill",
+            "maps_url": "https://www.google.com/maps/place/Burj+Khalifa/@25.1972407,55.2716513,17z/data=!4m6!3m5!1s0x3e5f43348a67e24b:0xff45e502e1ceb7e2!8m2!3d25.197197!4d55.2743764!16zL20vMDNjbjB2?entry=ttu",
+            "country": ["United Arab Emirates"]
+        },
+        {
+            "name": "Bwindi Impenetrable Forest",
+            "photo": "https://www.bwindiugandagorillatrekking.com/wp-content/uploads/2020/03/Animals-in-Bwindi-impenetrable-national-park.jpg",
+            "maps_url": "https://www.google.com/maps/place/Bwindi+Impenetrable+Forest/@-1.0508837,29.6119895,15z/data=!4m6!3m5!1s0x19de9d58dac3d859:0x972f044d905ac1fa!8m2!3d-1.0521495!4d29.6201006!16zL20vMDV0Y2Iw?entry=ttu",
+            "country": ["Uganda"]
+        },
+        {
+            "name": "Cameron Highlands",
+            "photo": "https://www.abercrombiekent.co.uk/-/media/abercrombieandkent/images/page-header-images/asia/malaysia-and-borneo/cameron-highlands/cameronhighlands_0000_malaysia-cameronhighlands-shutterstock_195343844.jpg?la=en&hash=1BEE40AF065A1713B0057F454CEDE33480F29E10",
+            "maps_url": "https://www.google.com/maps/place/Cameron+Highlands,+Pahang,+Malaysia/@4.479617,101.3805464,12z/data=!4m6!3m5!1s0x31ca5082fa7f0d47:0x655625f6e1faf2f4!8m2!3d4.4721201!4d101.3801441!16zL20vMDRod21x?entry=ttu",
+            "country": ["Malaysia"]
+        },
+        {
+            "name": "Caño Cristales",
+            "photo": "https://steambeach.com/cdn/shop/articles/bnn_blog_cano_cristales.jpg?v=1563558743",
+            "maps_url": "https://www.google.com/maps/place/Ca%C3%B1o+Cristales/@2.2642882,-73.8046512,15z/data=!3m1!4b1!4m6!3m5!1s0x8e22b6f5f33cdd97:0x5b24c6b481e2d91!8m2!3d2.2642668!4d-73.7943515!16s%2Fm%2F0cp1x1l?entry=ttu",
+            "country": ["Colombia"]
+        },
+        {
+            "name": "Central Park",
+            "photo": "https://wallpapercave.com/wp/wp3514641.jpg",
+            "maps_url": "https://www.google.com/maps/place/Central+Park/@40.7814081,-73.9726865,14.38z/data=!4m6!3m5!1s0x89c2589a018531e3:0xb9df1f7387a94119!8m2!3d40.7825547!4d-73.9655834!16zL20vMDljN3Y?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Chamarel",
+            "photo": "https://windows10spotlight.com/wp-content/uploads/2020/11/f8c42610adf0f0421894ea5c79dc482d.jpg",
+            "maps_url": "https://www.google.com/maps/place/Chamarel,+Mauritius/@-20.425605,57.389969,17.42z/data=!4m6!3m5!1s0x217c6948fd6216a1:0x862de206a40feaf5!8m2!3d-20.4250942!4d57.391685!16s%2Fm%2F0h7lylz?entry=ttu",
+            "country": ["Mauritius"]
+        },
+        {
+            "name": "Chefchaouen",
+            "photo": "https://aborntraveller.com/wp-content/uploads/2021/03/milad-alizadeh-JibMa0FbyHw-unsplash-scaled.jpg",
+            "maps_url": "https://www.google.com/maps/place/Chefchaouen,+Morocco/@35.1713236,-5.2911509,14z/data=!4m6!3m5!1s0xd0b265e6402d907:0x91548980ce97ea0c!8m2!3d35.168796!4d-5.2683641!16zL20vMDZmNHBr?entry=ttu",
+            "country": ["Morocco"]
+        },
+        {
+            "name": "Chichén Itzá",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/196000/196132-Yucatan.jpg",
+            "maps_url": "https://www.google.com/maps/place/Chich%C3%A9n+Itz%C3%A1/@20.6838854,-88.5702797,17z/data=!4m6!3m5!1s0x8f5138c6e391c0e7:0x7c1ea0a168994d9a!8m2!3d20.6842849!4d-88.5677826!16zL20vMDE3a3B2?entry=ttu",
+            "country": ["Mexico"]
+        },
+        {
+            "name": "Chocolate Hills",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chocolate_Hills_overview.JPG",
+            "maps_url": "https://www.google.com/maps/place/Chocolate+Hills/@9.8282379,124.1327002,15z/data=!4m6!3m5!1s0x33aa3da1a65d72f7:0xd89c856a3307dd67!8m2!3d9.829708!4d124.1396756!16zL20vMDF2N2dj?entry=ttu",
+            "country": ["Philippines"]
+        },
+        {
+            "name": "Christ the Redeemer",
+            "photo": "https://wallpapercave.com/wp/wp1991646.jpg",
+            "maps_url": "https://www.google.com/maps/place/Christ+the+Redeemer/@-22.9514188,-43.2134079,17z/data=!4m6!3m5!1s0x997fd5984aa13f:0x9dc984d7019502de!8m2!3d-22.951916!4d-43.2104872!16zL20vMDNneXR3?entry=ttu",
+            "country": ["Brazil"]
+        },
+        {
+            "name": "Cirque de Gavarnie",
+            "photo": "https://cdn.britannica.com/68/11568-050-FDAC8AE9/Cirque-de-Gavarnie-valley-view-Pyrenees.jpg",
+            "maps_url": "https://www.google.com/maps/place/Cirque+de+Gavarnie/@42.7018019,-0.0303823,15z/data=!4m6!3m5!1s0xd57fd5c34c9edb5:0x7638ea29a7d86f69!8m2!3d42.7002771!4d-0.0163231!16zL20vMGJ0cTdx?entry=ttu",
+            "country": ["France"]
+        },
+        {
+            "name": "Cliffs of Moher",
+            "photo": "https://www.ncl.com/sites/default/files/GLW_06_1920%20X%201080%20XL.jpg",
+            "maps_url": "https://www.google.com/maps/place/Cliffs+of+Moher/@52.9715487,-9.4411821,15z/data=!3m1!4b1!4m6!3m5!1s0x485b01af0bb881f3:0x283a469048b8c0e6!8m2!3d52.9715368!4d-9.4308824!16zL20vMDJibXc2?entry=ttu",
+            "country": ["Ireland"]
+        },
+        {
+            "name": "CN Tower",
+            "photo": "https://cdn.hswstatic.com/gif/cn-tower.jpg",
+            "maps_url": "https://www.google.com/maps/place/CN+Tower/@43.6425701,-79.3896317,17z/data=!3m2!4b1!5s0x882b34d819a55ff7:0xad7cf7bcaf4e239b!4m6!3m5!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!8m2!3d43.6425662!4d-79.3870568!16zL20vMDF0d3M?entry=ttu",
+            "country": ["Canada"]
+        },
+        {
+            "name": "Colosseum",
+            "photo": "https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg",
+            "maps_url": "https://www.google.com/maps/place/Colosseum/@41.8902142,12.489656,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309!16zL20vMGQ1cXg?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Copacabana Beach",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Copacabana_beach_view_by_sunset.jpg/2560px-Copacabana_beach_view_by_sunset.jpg",
+            "maps_url": "https://www.google.com/maps/place/Copacabana+Beach/@-22.9757079,-43.1910712,15z/data=!4m6!3m5!1s0x9bd54579a5956b:0xa102deeaffcb3e3!8m2!3d-22.9738729!4d-43.18531!16s%2Fg%2F11bzxyjbll?entry=ttu",
+            "country": ["Brazil"]
+        },
+        {
+            "name": "Crater Lake National Park",
+            "photo": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_228206035.jpg",
+            "maps_url": "https://www.google.com/maps/place/Crater+Lake+National+Park/@42.9359811,-122.3003641,11z/data=!3m1!4b1!4m6!3m5!1s0x54c6170840e5e339:0x902bf2e1452fe3a3!8m2!3d42.9294762!4d-122.1279394!16zL20vMDE3eXk0?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Dal Lake",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dal_Lake%2C_Kashmir.jpg",
+            "maps_url": "https://www.google.com/maps/place/Dal+Lake/@34.1070729,74.8264197,13z/data=!4m6!3m5!1s0x38e185c268876847:0xbf6def9295995179!8m2!3d34.1105857!4d74.8682569!16zL20vMDZkNmJk?entry=ttu",
+            "country": ["India"]
+        },
+        {
+            "name": "Danakil Depression",
+            "photo": "https://static01.nyt.com/images/2017/01/31/science/31DANAKILJP/31DANAKILJP-superJumbo.jpg",
+            "maps_url": "https://www.google.com/maps/place/Dallol+Depression+%E1%8B%B3%E1%88%8E%E1%88%8D+%E1%88%98%E1%89%B3%E1%88%95%E1%89%B5/@14.2419133,40.2895622,15z/data=!4m6!3m5!1s0x1613417d0f47e3d3:0xd1e3bba84af445a4!8m2!3d14.2371974!4d40.2974771!16s%2Fg%2F11fltxjthv?entry=ttu",
+            "country": ["Ethiopia"]
+        },
+        {
+            "name": "Dead Sea",
+            "photo": "https://www.desertadventures.com/wp-content/uploads/2018/03/iStock-493763405.jpg",
+            "maps_url": "https://www.google.com/maps/place/Dead+Sea/@31.5300241,35.336671,10.42z/data=!4m6!3m5!1s0x15033c2eaf9fbba1:0xf38cff48a0c15882!8m2!3d31.5590287!4d35.4731895!16zL20vMDJjbnA?entry=ttu",
+            "country": ["Jordan", "Palestine", "Israel"]
+        },
+        {
+            "name": "Denali National Park and Preserve",
+            "photo": "https://wallpapercave.com/wp/wp2503843.jpg",
+            "maps_url": "https://www.google.com/maps/place/Denali+National+Park+and+Preserve/@63.3679787,-153.1226,7.13z/data=!4m6!3m5!1s0x56cdf3ff88d01605:0xc6b53b15131936a5!8m2!3d63.1148002!4d-151.1926057!16zL20vMDFuYjZw?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Dubrovnik City Walls",
+            "photo": "https://tourcroatia.co.uk/wp-content/uploads/2017/01/croatia-dubrovnik.jpg",
+            "maps_url": "https://www.google.com/maps/place/Dubrovnik+City+Walls/@42.6510261,18.048072,13.42z/data=!4m10!1m2!2m1!1sDubrovnik+City+Walls!3m6!1s0x134c0b329cd54c57:0x96dd7d686f19e991!8m2!3d42.6457078!4d18.0908845!15sChREdWJyb3ZuaWsgQ2l0eSBXYWxsc1oWIhRkdWJyb3ZuaWsgY2l0eSB3YWxsc5IBB3RvdXJpc22aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmhPSFkyVm10QlJSQULgAQA!16s%2Fm%2F080ntz4?entry=ttu",
+            "country": ["Croatia"]
+        },
+        {
+            "name": "Duomo di Milano",
+            "photo": "https://media.cntraveler.com/photos/5491e75d860c74c1162caf91/16:9/w_2560,c_limit/duomo-milan-italy.jpg",
+            "maps_url": "https://www.google.com/maps/place/Duomo+di+Milano/@45.4643979,9.1896321,17z/data=!4m6!3m5!1s0x4786c6aec34636a1:0xab7f4e27101a2e13!8m2!3d45.4640976!4d9.1919265!16zL20vMDFnZ3M4?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Easter Island",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/Ahu-Tongariki-Easter-Island-Chile.jpg",
+            "maps_url": "https://www.google.com/maps/place/Easter+Island/@-27.1072194,-109.3959255,12z/data=!4m6!3m5!1s0x9947f017a8d4ae2b:0xbbe5b3edc02a2db6!8m2!3d-27.112723!4d-109.3496865!16zL20vMGRfeno?entry=ttu",
+            "country": ["Chile"]
+        },
+        {
+            "name": "Edinburgh Castle",
+            "photo": "https://media.cntraveler.com/photos/5c2cfc9f6b0c2057eb60d579/master/pass/Edinburgh%20Castle_GettyImages-157509228.jpg",
+            "maps_url": "https://www.google.com/maps/place/Edinburgh+Castle/@55.9487719,-3.2014906,17z/data=!4m6!3m5!1s0x4887c79a2099c0f7:0x469a1eebe54c0a58!8m2!3d55.9485947!4d-3.1999135!16zL20vMGpwbl8?entry=ttu",
+            "country": ["Scotland"]
+        },
+        {
+            "name": "Eiffel Tower",
+            "photo": "https://media.cntraveler.com/photos/58de89946c3567139f9b6cca/16:9/w_2560%2Cc_limit/GettyImages-468366251.jpg",
+            "maps_url": "https://www.google.com/maps/place/Eiffel+Tower/@48.8583736,2.2919064,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDJqODE?entry=ttu",
+            "country": ["France"]
+        },
+        {
+            "name": "El Yunque National Forest",
+            "photo": "https://media.cntraveler.com/photos/5d4ad62f3ff33100080a9123/16:9/w_2560,c_limit/01-PuertoRico-2019-ElYunqueNationalForest-GettyImages-985510974.jpg",
+            "maps_url": "https://www.google.com/maps/place/El+Yunque+National+Forest/@18.2947999,-65.8034387,16.13z/data=!4m6!3m5!1s0x8c04a1b32efdd0c9:0x8342f6bc9bb224d1!8m2!3d18.2951347!4d-65.8000327!16zL20vMDJiOXhr?entry=ttu",
+            "country": ["Puerto Rico"]
+        },
+        {
+            "name": "Empire State Building",
+            "photo": "https://assets.editorial.aetnd.com/uploads/2016/04/gettyimages-555173607-2.jpg",
+            "maps_url": "https://www.google.com/maps/place/Empire+State+Building/@40.7484608,-73.9866515,17z/data=!3m1!5s0x8b398fecd1aea119:0x76fa1e3ac5a94c70!4m6!3m5!1s0x89c259a9b3117469:0xd134e199a405a163!8m2!3d40.7484405!4d-73.9856644!16zL20vMDJuZF8?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Everglades National Park",
+            "photo": "https://cdn.outsideonline.com/wp-content/uploads/2019/04/15/everglades-national-park_h.jpg",
+            "maps_url": "https://www.google.com/maps/place/Everglades+National+Park/@25.4626068,-81.0425737,10z/data=!4m6!3m5!1s0x88d0a8307a6c05db:0xfe03e56762f3197!8m2!3d25.2866155!4d-80.8986509!16zL20vMDE5OWw0?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Fairy Meadows",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Fairy_meadows_view.jpg",
+            "maps_url": "https://www.google.com/maps/place/Fairy+Meadows/@35.3829915,74.5622776,14z/data=!4m6!3m5!1s0x38e6ecc4acc8c687:0x6e151bcebb07d81d!8m2!3d35.3873191!4d74.5785485!16s%2Fm%2F0119rz2d?entry=ttu",
+            "country": ["Pakistan"]
+        },
+        {
+            "name": "Fernando de Noronha",
+            "photo": "https://latsatts.com/wp-content/uploads/2013/10/noronha-9.jpg",
+            "maps_url": "https://www.google.com/maps/place/Fernando+de+Noronha/@-3.8458318,-32.4365337,15.04z/data=!4m6!3m5!1s0x635de3fd6310b57:0xe1a76e103787589!8m2!3d-3.8447976!4d-32.4268917!16zL20vMDFtNHRf?entry=ttu",
+            "country": ["Brazil"]
+        },
+        {
+            "name": "Fisherman's Bastion",
+            "photo": "https://images.locationscout.net/2022/12/fishermans-bastion-budapest-drone-hungary-shay.jpg?h=1100&q=83",
+            "maps_url": "https://www.google.com/maps/place/Fisherman's+Bastion/@47.5023579,19.0339015,17.29z/data=!4m6!3m5!1s0x4741dc227fb4a99d:0x2f263ca844235e46!8m2!3d47.5021827!4d19.0347812!16zL20vMDl4ejBo?entry=ttu",
+            "country": ["Hungary"]
+        },
+        {
+            "name": "Forbidden City",
+            "photo": "https://jingculturecrypto.com/wp-content/uploads/2019/07/shutterstock_478791925-3.jpg",
+            "maps_url": "https://www.google.com/maps/place/Forbidden+City/@39.9171124,116.3944395,16.71z/data=!4m6!3m5!1s0x35f052e94515d43d:0x674e2bd4dd3079f!8m2!3d39.9168038!4d116.3971621!16zL20vMGowYjI?entry=ttu",
+            "country": ["China"]
+        },
+        {
+            "name": "Fushimi Inari Taisha",
+            "photo": "https://facts.net/wp-content/uploads/2023/09/18-fascinating-facts-about-fushimi-inari-taisha-1694668911.jpg",
+            "maps_url": "https://www.google.com/maps/place/Fushimi+Inari+Taisha/@34.9677735,135.777944,17.87z/data=!4m6!3m5!1s0x60010f153d2e6d21:0x7b1aca1c753ae2e9!8m2!3d34.9676945!4d135.7791876!16zL20vMDVsZHJt?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
+            "name": "Galápagos Islands",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/Galapagos-islands.jpg",
+            "maps_url": "https://www.google.com/maps/place/Gal%C3%A1pagos+Islands/@-0.3817068,-91.0827644,9z/data=!3m1!4b1!4m6!3m5!1s0x9021d9b43bec07cd:0xfb3e68fef05dae23!8m2!3d-0.383106!4d-90.4233344!16zL20vMDE2empq?entry=ttu",
+            "country": ["Ecuador"]
         },
         {
             "name": "Gardens by the Bay",
@@ -19,16 +385,100 @@
             "country": ["Northern Ireland"]
         },
         {
+            "name": "Glencoe",
+            "photo": "https://windows10spotlight.com/wp-content/uploads/2018/08/cadfafc327b84da53186e1e1663376e5.jpg",
+            "maps_url": "https://www.google.com/maps/place/Glencoe,+Ballachulish,+UK/@56.6825662,-5.10846,14.83z/data=!4m6!3m5!1s0x488930ea7b29b375:0xd1dce0f3c21732e7!8m2!3d56.6825599!4d-5.1022713!16zL20vMDEydzk1?entry=ttu",
+            "country": ["Scotland"]
+        },
+        {
+            "name": "Golden Gate Bridge",
+            "photo": "https://assets.editorial.aetnd.com/uploads/2015/02/topic-golden-gate-bridge-gettyimages-177770941.jpg",
+            "maps_url": "https://www.google.com/maps/place/Golden+Gate+Bridge/@37.8186545,-122.4844319,15.25z/data=!4m6!3m5!1s0x808586deffffffc3:0xcded139783705509!8m2!3d37.8199109!4d-122.4785598!16zL20vMDM1cDM?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Grand Canyon",
+            "photo": "https://worldheritageusa.org/wp-content/uploads/2022/10/grand-canyon-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Grand+Canyon/@36.0927823,-112.1304065,13.04z/data=!4m10!1m2!2m1!1sGrand+Canyon!3m6!1s0x80cc0654bd27e08d:0xb1c2554442d42e8d!8m2!3d36.0997631!4d-112.1124846!15sCgxHcmFuZCBDYW55b25aDiIMZ3JhbmQgY2FueW9ukgEGcmF2aW5l4AEA!16s%2Fg%2F1tg6vzsz?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Great Sphinx of Giza",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Great_Sphinx_of_Giza_-_20080716a.jpg/1280px-Great_Sphinx_of_Giza_-_20080716a.jpg",
+            "maps_url": "https://www.google.com/maps/place/Great+Sphinx+of+Giza/@29.9752733,31.1349925,17z/data=!3m1!4b1!4m6!3m5!1s0x14584f62a3aea979:0xc9d3f0a64066bda9!8m2!3d29.9752687!4d31.1375674!16zL20vMDFraG1n?entry=ttu",
+            "country": ["Egypt"]
+        },      
+        {
             "name": "Great Wall of China",
             "photo": "https://i.natgeofe.com/n/20e923d3-042c-4045-942a-52308add6a75/great-wall-unesco-china.jpg",
             "maps_url": "https://www.google.com/maps/place/Great+Wall+of+China/@40.237167,116.4134227,10.29z/data=!4m6!3m5!1s0x35f121d7687f2ccf:0xd040259b950522df!8m2!3d40.4319077!4d116.5703749!16zL20vMGQyZHEw?entry=ttu",
             "country": ["China"]
         },
         {
-            "name": "Hang Son Doong",
+            "name": "Guggenheim Museum Bilbao",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg",
+            "maps_url": "https://www.google.com/maps/place/Guggenheim+Museum+Bilbao/@43.2686282,-2.9350847,17z/data=!4m6!3m5!1s0xd4e4fdede6031b5:0x508893b7cdaf6dad!8m2!3d43.2686712!4d-2.9340118!16zL20vMG04NmY?entry=ttu",
+            "country": ["Spain"]
+        },
+        {
+            "name": "Gunung Mulu National Park",
+            "photo": "https://www.bikeandtours.com/application/files/8015/2919/7092/Mulu_National_Park.jpg",
+            "maps_url": "https://www.google.com/maps/place/Gunung+Mulu+National+Park/@4.08145,114.8694939,13z/data=!4m6!3m5!1s0x321903b651d89c1d:0xcc556a8cef339f29!8m2!3d4.09207!4d114.8958021!16zL20vMDVzeHE2?entry=ttu",
+            "country": ["Malaysia"]
+        },
+        {
+            "name": "Gyeongbokgung Palace",
+            "photo": "https://thisiskoreatours.com/wp-content/uploads/2017/03/Gyeongbokgung-Palace.jpg",
+            "maps_url": "https://www.google.com/maps/place/Gyeongbokgung+Palace/@37.5797658,126.9751205,17z/data=!4m6!3m5!1s0x357ca2c74aeddea1:0x8b3046532cc715f6!8m2!3d37.579617!4d126.977041!16zL20vMDJ2M3Q2?entry=ttu",
+            "country": ["South Korea"]
+        },
+        {
+            "name": "Ha Long Bay",
+            "photo": "https://images.luxuryescapes.com/q_auto:good/x8zw1b3w8pq33hwp0ee",
+            "maps_url": "https://www.google.com/maps/place/H%E1%BA%A1+Long+Bay/@20.8210025,107.1599308,13.17z/data=!4m6!3m5!1s0x314a5796518cee87:0x55c6b0bcc85478db!8m2!3d20.9100512!4d107.1839024!16zL20vMDFmeG16?entry=ttu",
+            "country": ["Vietnam"]
+        },
+        {
+            "name": "Hagia Sophia",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/507000/507822-hagia-sophia-ayasofya.jpg",
+            "maps_url": "https://www.google.com/maps/place/Hagia+Sophia/@41.008695,28.9798998,18z/data=!4m6!3m5!1s0x14cab9be92011c27:0x236e6f6f37444fae!8m2!3d41.008583!4d28.980175!16zL20vMGJyNXE?entry=ttu",
+            "country": ["Türkiye"]
+        },
+        {
+            "name": "Hang Sơn Đoòng",
             "photo": "https://images.squarespace-cdn.com/content/v1/59332e0615d5dbea570b8b4f/1642841308705-9BEK1C7UZLFTRWJ56XV3/Son-Doong-Cave-Ryan-Deboodt-8e2574f9767f.jpeg",
             "maps_url": "https://www.google.com/maps/place/Hang+S%C6%A1n+%C4%90o%C3%B2ng/@17.9888459,106.0551706,9.42z/data=!4m6!3m5!1s0x3138c817a1e4e223:0x92ee0503cee94cae!8m2!3d17.5469315!4d106.1439998!16s%2Fm%2F05zmhlm?entry=ttu",
             "country": ["Vietnam"]
+        },
+        {
+            "name": "Hawa Mahal",
+            "photo": "https://images.moneycontrol.com/static-mcnews/2023/04/pexels-ankur-bagai-6440428.jpg?impolicy=website&width=1600&height=900",
+            "maps_url": "https://www.google.com/maps/place/Hawa+Mahal/@26.9237906,75.8257797,18.17z/data=!4m6!3m5!1s0x396db14b1bd30ba5:0x860e5d531eccb20c!8m2!3d26.9239363!4d75.8267438!16zL20vMDZrN3Fj?entry=ttu",
+            "country": ["India"]
+        },
+        {
+            "name": "Hội An",
+            "photo": "https://assets.bucketlistly.blog/sites/5adf778b6eabcc00190b75b1/content_entry5adf77af6eabcc00190b75b6/5ae36526c2c8d80013b0e9d7/files/lanterns-hoi-an-danang-vietnam-travel-solo-main-image-hd-op.jpg",
+            "maps_url": "https://www.google.com/maps/place/H%E1%BB%99i+An,+Qu%E1%BA%A3ng+Nam,+Vietnam/@15.886744,108.3185358,12z/data=!4m6!3m5!1s0x31420dd4e1353a7b:0xae336435edfcca3!8m2!3d15.8800584!4d108.3380469!16zL20vMDZmYnBk?entry=ttu",
+            "country": ["Vietnam"]
+        },
+        {
+            "name": "Hoover Dam",
+            "photo": "https://media.cntraveler.com/photos/5a9c5f218087c02669a7e252/16:9/w_2560,c_limit/Hoover%20Dam_2018_GettyImages-669015382.jpg",
+            "maps_url": "https://www.google.com/maps/place/Hoover+Dam/@36.0159049,-114.7400607,17z/data=!4m6!3m5!1s0x80c92b497f82a14b:0x89d59d0bd29de37!8m2!3d36.0160655!4d-114.7377325!16zL20vMDNxNGs?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Horseshoe Bend",
+            "photo": "https://media.cntraveler.com/photos/5f6b89e14297925b041ef2eb/16:9/w_2560%2Cc_limit/HorseshoeBendArizona-2020-GettyImages-1137968935.jpg",
+            "maps_url": "https://www.google.com/maps/place/Horseshoe+Bend/@36.8828534,-111.5236236,15z/data=!4m6!3m5!1s0x87346ced52b21091:0xb623646960566829!8m2!3d36.8790612!4d-111.5103627!16zL20vMDZucWhq?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Huacachina",
+            "photo": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2019/05/Huacachina-Feature.jpg",
+            "maps_url": "https://www.google.com/maps/place/Huacachina+11000,+Peru/@-14.0875595,-75.7640474,18z/data=!4m6!3m5!1s0x9110e3010800b101:0x136be001d08a4223!8m2!3d-14.0874587!4d-75.762586!16zL20vMDNxX2J6?entry=ttu",
+            "country": ["Peru"]
         },
         {
             "name": "Iguazu Falls",
@@ -37,10 +487,100 @@
             "country": ["Argentina", "Brazil"]
         },
         {
+            "name": "Imperial Palace",
+            "photo": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/07/Tokyo-Imperial-Palace.jpg",
+            "maps_url": "https://www.google.com/maps/place/Imperial+Palace/@35.6850142,139.7523081,17.58z/data=!4m6!3m5!1s0x60188c0d02d8064d:0xd11a5f0b379e6db7!8m2!3d35.685175!4d139.7527995!16zL20vMDFuZjI5?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
+            "name": "Isla Holbox",
+            "photo": "https://images.odigoo.com/cb6a1e9c-21c6-4165-9ba7-db9263d832a1/images/posts/romantic-getaway-in-holbox/webp/meta-romantic-getaway-in-holbox-8jy5.webp",
+            "maps_url": "https://www.google.com/maps/place/Isla+Holbox/@21.5506409,-87.3366985,12z/data=!3m1!4b1!4m6!3m5!1s0x8f4d9677b0abe2f1:0xa56edc4fcc77e54e!8m2!3d21.5308421!4d-87.2866995!16zL20vMGZuMGd6?entry=ttu",
+            "country": ["Mexico"]
+        },
+        {
+            "name": "Isle of Skye",
+            "photo": "https://www.ihcottages.com/wp-content/uploads/landscape-540115_1920.jpg",
+            "maps_url": "https://www.google.com/maps/place/Skye/@57.3853843,-6.4135363,9.58z/data=!4m6!3m5!1s0x488c312261bdc1ff:0x585c356fe9c86218!8m2!3d57.2736278!4d-6.2155023!16zL20vMDN5Nms?entry=ttu",
+            "country": ["Scotland"]
+        },
+        {
+            "name": "Itsukushima Shrine",
+            "photo": "https://images.squarespace-cdn.com/content/v1/606dd1c12b1a2960dcabb2e3/1647269142171-1H66X54WPWGBVMBSH4VU/Centuries-old+Itsukushima+shrine+on+Miyajima+island+in+Japan.jpg",
+            "maps_url": "https://www.google.com/maps/place/Itsukushima+Jinja/@34.2967031,132.318187,17z/data=!4m6!3m5!1s0x601ae3047ec76d8f:0x357228f7d0b5d590!8m2!3d34.2959896!4d132.3198285!16zL20vMDJycnJm?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
+            "name": "Jeita Grotto",
+            "photo": "https://static.wixstatic.com/media/8e0229_6ff46370f06c4abead9565862c463085~mv2.jpg/v1/fill/w_2047,h_1344,al_c,q_90/JEITA%20Grotto_edited_edited.jpg",
+            "maps_url": "https://www.google.com/maps/place/Jeita+Grotto/@33.9441363,35.6400157,17.71z/data=!4m6!3m5!1s0x151f17215880a78f:0x3df0a81262949b78!8m2!3d33.9436631!4d35.640858!16zL20vMDhyeWhr?entry=ttu",
+            "country": ["Lebanon"]
+        },
+        {
+            "name": "Jeronimos Monastery",
+            "photo": "https://media.cntraveler.com/photos/5bce24be06957f77f66121e9/16:9/w_2560,c_limit/Je%CC%81ronimos%20Monastery_GettyImages-186874286.jpg",
+            "maps_url": "https://www.google.com/maps/place/Jer%C3%B3nimos+Monastery/@38.6980458,-9.2077768,17z/data=!4m6!3m5!1s0xd1ecb42c3c29c4b:0x87755d348e96ebed!8m2!3d38.6978909!4d-9.2067039!16zL20vMDUwOWt2?entry=ttu",
+            "country": ["Portugal"]
+        },
+        {
+            "name": "Kawachi Fuji Gardens",
+            "photo": "https://cdn.zekkei-japan.jp/images/spots/6bdcee089d5834a19ccfc5c308db62c5.jpg",
+            "maps_url": "https://www.google.com/maps/place/Kawauchi+Fujien/@33.8322459,130.7896994,17z/data=!3m1!4b1!4m6!3m5!1s0x3543cf7e0837a8cd:0x9ec2fbe1be6b26d1!8m2!3d33.8322415!4d130.7922743!16s%2Fg%2F1q5ghcms1?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
             "name": "Keukenhof Park",
             "photo": "https://www.netherlands-tourism.com/wp-content/uploads/2013/11/Keukenhof-4.jpg",
             "maps_url": "https://www.google.com/maps/place/Keukenhof/@52.2699675,4.5449822,16.13z/data=!4m6!3m5!1s0x47c5c20434806f1d:0x37db0da72386280!8m2!3d52.2697087!4d4.5469336!16zL20vMDZmMHNk?entry=ttu",
             "country": ["Netherlands"]
+        },
+        {
+            "name": "Kinkaku-ji",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kinkakuji_Temple_%28109420555%29.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Kinkaku-ji/@35.0392594,135.7279778,17.87z/data=!4m6!3m5!1s0x6001a820c0eb46bd:0xee4272b1c22645f!8m2!3d35.03937!4d135.7292431!16zL20vMDFrbjR3?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
+            "name": "Komodo National Park",
+            "photo": "https://www.aquaexpeditions.com/wp-content/uploads/2019/06/komodo-diving-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Komodo+National+Park/@-8.5261189,119.4695063,13.5z/data=!4m6!3m5!1s0x2db4f8f329ac91b9:0xb1a1078870e0d162!8m2!3d-8.527716!4d119.4833198!16zL20vMDJ6cGhm?entry=ttu",
+            "country": ["Indonesia"]
+        },
+        {
+            "name": "Kruger National Park",
+            "photo": "https://www.discoverafrica.com/wp-content/uploads/2021/11/kruger-national-park-south-africa.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Kruger+National+Park/@-23.987073,31.5444929,13.21z/data=!4m6!3m5!1s0x1ec34896c535a0a1:0x9a504ed31f67787b!8m2!3d-23.9883848!4d31.5547402!16zL20vMDFzbjF6?entry=ttu",
+            "country": ["South Africa"]
+        },
+        {
+            "name": "Kuang Si Waterfall",
+            "photo": "https://discoverlaos.today/img/thing_to_do/27b07337c852c2e1bfedadab90866d40.jpg?p=image1920x1080",
+            "maps_url": "https://www.google.com/maps/place/Kuang+Si+Waterfall/@19.7499597,101.9927532,17z/data=!4m6!3m5!1s0x3128d216c82caa13:0xe1f331979b7f211f!8m2!3d19.749573!4d101.9931839!16s%2Fm%2F03d726n?entry=ttu",
+            "country": ["Laos"]
+        },
+        {
+            "name": "La Sagrada Familia",
+            "photo": "https://www.arch2o.com/wp-content/uploads/2018/09/Arch2O-12-absolutely-interesting-facts-about-sagrada-familia-31.jpg",
+            "maps_url": "https://www.google.com/maps/place/La+Sagrada+Familia/@41.4033028,2.1731123,17.58z/data=!4m6!3m5!1s0x12a4a2dcd83dfb93:0x9bd8aac21bc3c950!8m2!3d41.4036299!4d2.1743558!16zL20vMGc2bjM?entry=ttu",
+            "country": ["Spain"]
+        },
+        {
+            "name": "Lake Atitlán",
+            "photo": "https://travelwithneweyes.com/wp-content/uploads/2023/01/20221027_090802-min.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lake+Atitl%C3%A1n/@14.6788506,-91.2484873,12.42z/data=!4m6!3m5!1s0x85894ac7c083b493:0xa6e33f7d6b54910!8m2!3d14.6906713!4d-91.2025207!16zL20vMDN3NXpy?entry=ttu",
+            "country": ["Guatemala"]
+        },
+        {
+            "name": "Lake Bled",
+            "photo": "https://www.mobicastle.com/wp-content/uploads/2020/06/b1725fce-6bde-40fd-9783-19f4acc01028-lake-bled-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lake+Bled/@46.3663635,14.0885507,15.13z/data=!4m6!3m5!1s0x477a9139b9d9e421:0x83cd8331dd0107ac!8m2!3d46.363598!4d14.0938053!16zL20vMDkxMDhq?entry=ttu",
+            "country": ["Slovenia"]
+        },
+        {
+            "name": "Lake Como",
+            "photo": "https://media.gq-magazine.co.uk/photos/5d7a20469d23140008b92b89/master/pass/20190912-Lake-Como-.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lake+Como/@45.9919506,9.063084,11z/data=!3m1!4b1!4m6!3m5!1s0x47843d32820b62f7:0x3e40c4eae898e1e0!8m2!3d46.0160486!4d9.2571676!16zL20vMDFsNHNt?entry=ttu",
+            "country": ["Italy"]
         },
         {
             "name": "Lake Hillier",
@@ -49,16 +589,220 @@
             "country": ["Australia"]
         },
         {
+            "name": "Lake Louise",
+            "photo": "https://wallpapercave.com/wp/bd0UUCb.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lake+Louise/@51.4146492,-116.2483047,14z/data=!4m15!1m8!3m7!1s0x53775d28a0e1ce11:0x3c373c7b6365bce6!2sLake+Louise,+AB,+Canada!3b1!8m2!3d51.4253705!4d-116.1772552!16zL20vMDFmOHZz!3m5!1s0x53775d09d0b608b1:0x1d677badba49b72e!8m2!3d51.4124354!4d-116.2273869!16s%2Fm%2F02rkkjm?entry=ttu",
+            "country": ["Canada"]
+        },
+        {
+            "name": "Lake Nakuru",
+            "photo": "https://ak-d.tripcdn.com/images/10011f000001h357u3395.jpg?proc=source%2Ftrip",
+            "maps_url": "https://www.google.com/maps/place/Lake+Nakuru/@-0.3596858,36.0499949,13z/data=!4m6!3m5!1s0x18298fe3b0de60ef:0xbb9b734c1a471f80!8m2!3d-0.356166!4d36.100211!16zL20vMDZqY2po?entry=ttu",
+            "country": ["Kenya"]
+        },
+        {
+            "name": "Lake Powell",
+            "photo": "https://i0.wp.com/lakepowellpaddleboards.com/wp-content/uploads/2017/11/lakepowell2.jpg?fit=1800%2C1182&ssl=1",
+            "maps_url": "https://www.google.com/maps/place/Lake+Powell/@37.3374489,-111.2319048,9.58z/data=!4m6!3m5!1s0x8734231d41520103:0x7738c1bac2a22b08!8m2!3d37.0682619!4d-111.2433108!16zL20vMDF6X3hy?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Lalibela Rock-Hewn Churches",
+            "photo": "https://www.artnews.com/wp-content/uploads/2021/08/AP20209416580201.jpg",
+            "maps_url": "https://www.google.com/maps/place/Rock-Hewn+Churches,+Lalibela/@12.0328965,39.0428165,17z/data=!4m6!3m5!1s0x16413ffceebd6b33:0x5f86dea5e44ff60d!8m2!3d12.0331956!4d39.0433851!16s%2Fg%2F1hl3gplvc?entry=ttu",
+            "country": ["Ethiopia"]
+        },
+        {
+            "name": "Lapland",
+            "photo": "https://media.architecturaldigest.com/photos/5a257cac1e90e8200d04c5c8/16:9/w_2580,c_limit/Glass%20Apartment%20outside.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lapland,+Finland/@67.7697467,21.4646642,6z/data=!4m6!3m5!1s0x45d30036254ca145:0xcedc4eb30d91aca1!8m2!3d67.9222304!4d26.5046438!16zL20vMDFuZHdr?entry=ttu",
+            "country": ["Finland"]
+        },
+        {
+            "name": "Las Coloradas",
+            "photo": "https://www.greenandturquoise.com/wp-content/uploads/2016/12/Las-Coloradas-Pink-Lake.jpg",
+            "maps_url": "https://www.google.com/maps/place/97723+Las+Coloradas,+Yucatan,+Mexico/@21.6068354,-87.9916366,16.71z/data=!4m6!3m5!1s0x8f52450ac38d05c5:0xefa6c82f0f09c715!8m2!3d21.6082868!4d-87.9913196!16s%2Fg%2F122r2psp?entry=ttu",
+            "country": ["Mexico"]
+        },
+        {
+            "name": "Le Morne Brabant",
+            "photo": "https://blog-cdn.turquoiseholidays.co.uk/wp-content/uploads/2019/08/le-morne-hero-final.jpg",
+            "maps_url": "https://www.google.com/maps/place/Le+Morne+Brabant/@-20.4497663,57.3105264,14.42z/data=!4m6!3m5!1s0x217c6cfabbafb251:0x992beea463f7f9f3!8m2!3d-20.45!4d57.3166667!16zL20vMGM3N3Zt?entry=ttu",
+            "country": ["Mauritius"]
+        },
+        {
+            "name": "Leaning Tower of Pisa",
+            "photo": "https://cdn1.discovertuscany.com/img/pisa/tower-pisa.jpg?auto=compress,enhance,format&w=",
+            "maps_url": "https://www.google.com/maps/place/Leaning+Tower+of+Pisa/@43.7228905,10.3956718,17.29z/data=!4m6!3m5!1s0x12d591a6c44e88cd:0x32eca9b1d554fc03!8m2!3d43.722952!4d10.396597!16zL20vMGNuNDY?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Lençóis Maranhenses National Park",
+            "photo": "https://wallpapercave.com/wp/wp4202075.jpg",
+            "maps_url": "https://www.google.com/maps/place/Parque+Nacional+dos+Len%C3%A7%C3%B3is+Maranhenses/@-2.4716964,-43.1735811,12.33z/data=!4m6!3m5!1s0x7f19ee15e39be5f:0x2d2895d0d57e9beb!8m2!3d-2.4859385!4d-43.128407!16zL20vMGJsamgz?entry=ttu",
+            "country": ["Brazil"]
+        },
+        {
+            "name": "Li River",
+            "photo": "https://windows10spotlight.com/wp-content/uploads/2018/01/333842206b6c72ec071254000a9e70d5.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lijiang/@24.6436754,110.6030389,14.13z/data=!4m6!3m5!1s0x36a5bc223465f3e7:0x43822c236cc5fd51!8m2!3d24.6429!4d110.61246!16zL20vMDIxamsx?entry=ttu",
+            "country": ["China"]
+        },
+        {
+            "name": "Louvre Museum",
+            "photo": "https://presse.louvre.fr/wp-content/uploads/2022/12/La-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Louvre+Museum/@48.8606146,2.3350691,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671d877937b0f:0xb975fcfa192f84d4!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI?entry=ttu",
+            "country": ["France"]
+        },
+        {
+            "name": "Lucerne",
+            "photo": "https://switzerland-tour.com/storage/media/Lucerne/Lucerne-from-the-top-Switzerland.jpg",
+            "maps_url": "https://www.google.com/maps/place/Lucerne,+Switzerland/@47.0484153,8.2481217,13z/data=!4m6!3m5!1s0x478ffa2a79547379:0xaef02ad1409952af!8m2!3d47.0501682!4d8.3093072!16zL20vMDE5NGY1?entry=ttu",
+            "country": ["Switzerland"]
+        },
+        {
+            "name": "Maasai Mara National Reserve",
+            "photo": "https://www.micato.com/wp-content/uploads/2018/09/maasai-mara-8.jpg",
+            "maps_url": "https://www.google.com/maps/place/Maasai+Mara+National+Reserve/@-1.4741498,35.0846968,12.33z/data=!4m6!3m5!1s0x182ce8a64a31fdb1:0x296a9587e0c3c410!8m2!3d-1.4821324!4d35.1299896!16s%2Fg%2F11fz7rpkyr?entry=ttu",
+            "country": ["Kenya"]
+        },
+        {
+            "name": "Machu Picchu",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/machu-picchu-in-south-america.jpg",
+            "maps_url": "https://www.google.com/maps/place/Machu+Picchu/@-13.2235799,-72.5052426,14.08z/data=!4m6!3m5!1s0x916d9a5f89555555:0x3a10370ea4a01a27!8m2!3d-13.2263308!4d-72.4973215!16zL20vMGtyZnk?entry=ttu",
+            "country": ["Peru"]
+        },
+        {
             "name": "Marble Caves",
             "photo": "https://i.natgeofe.com/n/442fa1a6-4c76-40bc-84a5-766eecc3eeef/10226727.jpg",
             "maps_url": "https://www.google.com/maps/place/Marble+Caves/@-46.6571832,-72.7076958,12.04z/data=!4m6!3m5!1s0xbd925614d5d5ff29:0xf457f3a4bfd0b78b!8m2!3d-46.6586031!4d-72.6275525!16s%2Fg%2F121y00df?entry=ttu",
             "country": ["Chile"]
         },
         {
-            "name": "Napali Coast State Wilderness Park",
+            "name": "Marina Bay Sands",
+            "photo": "https://media.cntraveler.com/photos/5a90b77fc6516a534a530483/16:9/w_2560,c_limit/Marina-Bay-Sands__2018_original.jpg",
+            "maps_url": "https://www.google.com/maps/place/Marina+Bay+Sands+Singapore/@1.2836449,103.8577332,17z/data=!4m9!3m8!1s0x31da19ee4cc09203:0x26c9afefa555dd7!5m2!4m1!1i2!8m2!3d1.2837575!4d103.8591065!16zL20vMGRkOTAz?entry=ttu",
+            "country": ["Singapore"]
+        },
+        {
+            "name": "Meteora",
+            "photo": "https://s3.ap-southeast-2.amazonaws.com/cdn.greekherald.com.au/wp-content/uploads/2023/04/18140957/meteora4.jpg",
+            "maps_url": "https://www.google.com/maps/place/Meteora/@39.7224953,21.6297058,17z/data=!4m6!3m5!1s0x13590faee8327f39:0x7127add4d8bc32ff!8m2!3d39.7217044!4d21.6305896!16zL20vMDEyZDl6?entry=ttu",
+            "country": ["Greece"]
+        },
+        {
+            "name": "Mexico City Metropolitan Cathedral",
+            "photo": "https://a.cdn-hotels.com/gdcs/production57/d1545/0f457338-a9e3-4ccf-835a-8fe339df556b.jpg",
+            "maps_url": "https://www.google.com/maps/place/Mexico+City+Metropolitan+Cathedral/@19.4338124,-99.1336832,17z/data=!4m6!3m5!1s0x85d1f932c627afe1:0x914f3df027515f27!8m2!3d19.4343942!4d-99.1330824!16zL20vMGRkaDd3?entry=ttu",
+            "country": ["Mexico"]
+        },
+        {
+            "name": "Milford Sound",
+            "photo": "https://images.squarespace-cdn.com/content/v1/5428c2cde4b0e88c57a4c022/1698988292452-YUUHHKNBBRXHW7SW634E/_W0A3582-WEBSITE.jpg",
+            "maps_url": "https://www.google.com/maps/place/Milford+Sound+%2F+Piopiotahi/@-44.6242884,167.8755176,12.29z/data=!4m6!3m5!1s0xa9d5e04dba4b49e1:0x2a00ef86ab64de00!8m2!3d-44.6414024!4d167.8973801!16zL20vMDF4Z3c4?entry=ttu",
+            "country": ["New Zealand"]
+        },
+        {
+            "name": "Mont Saint-Michel",
+            "photo": "https://images5.alphacoders.com/592/thumb-1920-592407.jpg",
+            "maps_url": "https://www.google.com/maps/place/50170+Mont+Saint-Michel,+France/@48.6269593,-1.5159328,14.13z/data=!4m6!3m5!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457!16zL20vMDFwOGg2?entry=ttu",
+            "country": ["France"]
+        },
+        {
+            "name": "Monteverde Cloud Forest Biological Preserve",
+            "photo": "https://i0.wp.com/touristjourney.com/wp-content/uploads/2020/05/monteverde-cloud-forest-tour-_37.jpg?fit=1200%2C798&ssl=1",
+            "maps_url": "https://www.google.com/maps/place/Monteverde+Cloud+Forest+Biological+Preserve/@10.3026857,-84.7900557,12.92z/data=!4m6!3m5!1s0x8fa0198755ec11cf:0xaf2fb8e79ee9ce66!8m2!3d10.2989417!4d-84.7681559!16s%2Fm%2F04jhrj1?entry=ttu",
+            "country": ["Costa Rica"]
+        },
+        {
+            "name": "Monument Valley",
+            "photo": "https://www.insightvacations.com/wp-content/uploads/2023/10/Large-Monument-Valley-in-Arizona-1147233225-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Monument+Valley/@36.966973,-110.0913465,14.38z/data=!4m6!3m5!1s0x87373183ffa168fd:0xcd9f911704a64b6e!8m2!3d36.9669045!4d-110.0796445!16zL20vMDJrX3Nu?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Mostar",
+            "photo": "https://lp-cms-production.imgix.net/2023-08/GettyRF655403592.jpg",
+            "maps_url": "https://www.google.com/maps/place/Mostar+88000,+Bosnia+and+Herzegovina/@43.3414817,17.7901691,13z/data=!4m6!3m5!1s0x134b43a43b6340a9:0x14f32b2d4e37c5a!8m2!3d43.3437748!4d17.8077578!16zL20vMDJwNHRo?entry=ttu",
+            "country": ["Bosnia and Herzegovina"]
+        },
+        {
+            "name": "Mount Bromo",
+            "photo": "https://authentic-indonesia.com/wp-content/uploads/2018/04/the-bromo-volcano.jpg",
+            "maps_url": "https://www.google.com/maps/place/Mt+Bromo/@-7.9415795,112.9458024,15z/data=!4m6!3m5!1s0x2dd637aaab794a41:0xada40d36ecd2a5dd!8m2!3d-7.9424936!4d112.9530122!16zL20vMDI3Z3Jf?entry=ttu",
+            "country": ["Indonesia"]
+        },
+        {
+            "name": "Mount Fuji",
+            "photo": "https://www.tripsavvy.com/thmb/qFqPcg6Wo24Hu4fLokNfAZdC-xQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fuji-mountain-in-autumn-822273028-5a6a8a9c3418c600363958d3.jpg",
+            "maps_url": "https://www.google.com/maps/place/Mount+Fuji/@35.3606421,138.7170637,15z/data=!3m1!4b1!4m6!3m5!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634!16zL20vMGNrczA?entry=ttu",
+            "country": ["Japan"]
+        },
+        {
+            "name": "Mount Kilimanjaro",
+            "photo": "https://i.natgeofe.com/n/72d25b07-5849-4d2a-9249-a48c5ed831c3/zebras-kilimanjaro-africa.jpg",
+            "maps_url": "https://www.google.com/maps/place/Mt+Kilimanjaro/@-3.0865403,37.3487963,13.54z/data=!4m6!3m5!1s0x1839fc5a396ea805:0x8e741c478eea6c01!8m2!3d-3.0674247!4d37.3556273!16zL20vMDE1MTNi?entry=ttu",
+            "country": ["Tanzania"]
+        },
+        {
+            "name": "Mount Rushmore",
+            "photo": "https://wallpapercave.com/wp/wp2216637.jpg",
+            "maps_url": "https://www.google.com/maps/place/Mount+Rushmore+National+Memorial/@43.8791278,-103.4578549,15.87z/data=!4m6!3m5!1s0x877d35d8b53ed6df:0xdaf53dbe055cc641!8m2!3d43.8803357!4d-103.4537746!16zL20vMDE5ZHZ2?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Nā Pali Coast State Wilderness Park",
             "photo": "https://s.hdnux.com/photos/01/26/70/71/22777447/4/rawImage.jpg",
             "maps_url": "https://www.google.com/maps/place/N%C4%81+Pali+Coast+State+Wilderness+Park/@22.1366158,-159.6662491,12.33z/data=!4m6!3m5!1s0x7c06f8a4b13bbcef:0x3b12ba01041a867e!8m2!3d22.1682018!4d-159.6577381!16zL20vMDZjYjZu?entry=ttu",
             "country": ["United States"]
+        },
+        {
+            "name": "Nasir al-Mulk Mosque",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nasir_Al_Molk_Mosque_HDR_Shot.jpg",
+            "maps_url": "https://www.google.com/maps/place/Nasir+al-Mulk+Mosque/@29.6085555,52.5459059,17z/data=!3m1!4b1!4m6!3m5!1s0x3fb20d6dd1e1a9e1:0xa5db54d59b5f73fe!8m2!3d29.6085509!4d52.5484808!16zL20vMGNxcGhf?entry=ttu",
+            "country": ["Iran"]
+        },
+        {
+            "name": "Neuschwanstein Castle",
+            "photo": "https://cdn.britannica.com/11/179711-138-F5C2AEAB/Overview-Neuschwanstein-Castle-Fussen-Germany.jpg",
+            "maps_url": "https://www.google.com/maps/place/Neuschwanstein+Castle/@47.5575718,10.7472275,17z/data=!4m6!3m5!1s0x479cf7cac44ea35d:0xc8a6866bd39dbba3!8m2!3d47.557574!4d10.7498004!16zL20vMDFqejF6?entry=ttu",
+            "country": ["Germany"]
+        },
+        {
+            "name": "Niagara Falls",
+            "photo": "https://www.niagarafallslive.com/wp-content/uploads/opt-falls-background-1920x1080-250k.jpg",
+            "maps_url": "https://www.google.com/maps/place/Niagara+Falls/@43.0832944,-79.0765833,15.33z/data=!4m15!1m8!3m7!1s0x89d363ea29e633b7:0x61975ae4b9c5aab3!2sNiagara+Falls,+NY!3b1!8m2!3d43.0962143!4d-79.0377388!16zL20vMHkzazk!3m5!1s0x89d34307412d7ae9:0x29be1d1e689ce35b!8m2!3d43.0828162!4d-79.0741629!16zL20vMGRwa18?entry=ttu",
+            "country": ["United States", "Canada"]
+        },
+        {
+            "name": "Notre Dame Cathedral",
+            "photo": "https://images.squarespace-cdn.com/content/v1/569e766e69492e9dd5373ef6/1493365355621-QXTDQEKWMIWF725XQ5B3/notre-dame-quai-de-montabello",
+            "maps_url": "https://www.google.com/maps/place/Cath%C3%A9drale+Notre-Dame+de+Paris/@48.853085,2.3479003,16.25z/data=!4m6!3m5!1s0x47e671e19ff53a01:0x36401da7abfa068d!8m2!3d48.8529682!4d2.3499021!16zL20vMGd0eGg?entry=ttu",
+            "country": ["France"]
+        },
+        {
+            "name": "Nungwi Beach",
+            "photo": "https://www.focuseastafricatours.com/wp-content/uploads/white-sands-beach-in-zanzibar-scaled.jpg",
+            "maps_url": "https://www.google.com/maps/place/Nungwi+Beach/@-5.7252207,39.2938793,17z/data=!4m6!3m5!1s0x18431e46bb9b6b77:0x2b750adc915e195f!8m2!3d-5.7238371!4d39.295081!16s%2Fg%2F1jkyg79jg?entry=ttu",
+            "country": ["Tanzania"]
+        },
+        {
+            "name": "Okavango Delta",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/aerial-view-of-the-okavango-delta-channels-and-landscape.jpg",
+            "maps_url": "https://www.google.com/maps/place/Okavango+Delta/@-19.3170744,22.3480243,9z/data=!3m1!4b1!4m6!3m5!1s0x19566cd6a10d2727:0x415c0ceb3cb2bae!8m2!3d-19.6510095!4d22.9058802!16zL20vMDJrY2pf?entry=ttu",
+            "country": ["Botswana"]
+        },
+        {
+            "name": "Old Bagan",
+            "photo": "https://www.worldatlas.com/upload/fb/25/af/shutterstock-244233511.jpg",
+            "maps_url": "https://www.google.com/maps/place/Old+Bagan,+Myanmar+(Burma)/@21.172815,94.8519791,15.71z/data=!4m6!3m5!1s0x30b5e50393d8ca61:0x371a4717c3e89981!8m2!3d21.1717271!4d94.8585458!16zL20vMDFnZzR2?entry=ttu",
+            "country": ["Myanmar"]
+        },
+        {
+            "name": "Pailón del Diablo",
+            "photo": "https://jaywalktheworld.com/wp-content/uploads/2023/10/ruta-10.jpg",
+            "maps_url": "https://www.google.com/maps/place/CASCADA+EL+PAIL%C3%93N+del+Diablo/@-1.4042094,-78.2990072,17z/data=!4m6!3m5!1s0x91d393fc6b20ad6d:0xbfc06a78c4bded53!8m2!3d-1.4044668!4d-78.297827!16s%2Fg%2F11j248h3tp?entry=ttu",
+            "country": ["Ecuador"]
         },
         {
             "name": "Palace of Versailles",
@@ -73,10 +817,262 @@
             "country": ["Turkiye"]
         },
         {
+            "name": "Paro Taktsang",
+            "photo": "https://www.bhutanpeacefultour.com/wp-content/uploads/2019/02/Paro-Taktsang-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Paro+Taktsang/@27.4888035,89.354133,16.29z/data=!4m6!3m5!1s0x39e175adae4236bb:0x9dae44bcf95400b1!8m2!3d27.4888078!4d89.3587377!16zL20vMDlnN3B5?entry=ttu",
+            "country": ["Bhutan"]
+        },
+        {
+            "name": "Peggy's Cove Lighthouse",
+            "photo": "https://www.rickhansen.com/sites/default/files/2022-08/pc-viewing-deck-opening-drone-brian-webb-10182021-0243.jpg",
+            "maps_url": "https://www.google.com/maps/place/Peggy's+Cove+Lighthouse/@44.4921772,-63.9187051,17.87z/data=!4m6!3m5!1s0x4b59f859b5444f57:0xd1e49136c67c8ca9!8m2!3d44.4917449!4d-63.9186569!16s%2Fg%2F11f3n1xgpr?entry=ttu",
+            "country": ["Canada"]
+        },
+        {
+            "name": "Peles Castle",
+            "photo": "https://romaniatourism.com/images/castles-fortresses/peles-castle-sinaia-romania.jpg",
+            "maps_url": "https://www.google.com/maps/place/Pele%C8%99+Castle/@45.3595707,25.5405824,17z/data=!4m6!3m5!1s0x40b316ecd2e0556d:0x9a6e63a594f3d5ad!8m2!3d45.3599816!4d25.5426423!16zL20vMDI2bXZk?entry=ttu",
+            "country": ["Romania"]
+        },
+        {
+            "name": "Pena National Palace",
+            "photo": "https://media1.thrillophilia.com/filestore/cbrdtqzh9349orv5uen3qbkfiigr_shutterstock_2144900127.jpg",
+            "maps_url": "https://www.google.com/maps/place/National+Palace+of+Pena/@38.787514,-9.3926581,17z/data=!3m1!5s0xd1edac7ef02c9e3:0xb825fcec67f73f5c!4m6!3m5!1s0xd1edabff29c5a67:0x77271a7dcb673b58!8m2!3d38.7875851!4d-9.3906089!16zL20vMDI5OGYx?entry=ttu",
+            "country": ["Portugal"]
+        },
+        {
+            "name": "Perito Moreno Glacier",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+            "maps_url": "https://www.google.com/maps/place/Perito+Moreno+Glacier/@-50.4876497,-73.2210212,12z/data=!4m6!3m5!1s0xbda4c963217850c3:0xa481a2efaf7479be!8m2!3d-50.4967297!4d-73.1376612!16zL20vMDN5cDc4?entry=ttu",
+            "country": ["Argentina"]
+        },
+        {
+            "name": "Petra",
+            "photo": "https://images.squarespace-cdn.com/content/v1/5c4df9934eddecd2894708b5/1683209818478-20MM8SX3S570HR6U6LMA/unsplash-image-eoZTnFtusDs.jpg",
+            "maps_url": "https://www.google.com/maps/place/Petra/@30.3308975,35.438538,15.17z/data=!4m6!3m5!1s0x15016ef1703b6071:0x199bf908679a2291!8m2!3d30.3284544!4d35.4443622!16zL20vMGM3enk?entry=ttu",
+            "country": ["Jordan"]
+        },
+        {
+            "name": "Petronas Twin Towers",
+            "photo": "https://images.locationscout.net/2022/07/petronas-towers-traders-hotel-viewpoint-malaysia-ldsu.webp?h=1400&q=83",
+            "maps_url": "https://www.google.com/maps/place/Petronas+Twin+Towers/@3.1572939,101.7108325,17.29z/data=!4m6!3m5!1s0x31cc37d12d669c1f:0x9e3afdd17c8a9056!8m2!3d3.1574693!4d101.7115639!16zL20vMHN5bHo?entry=ttu",
+            "country": ["Malaysia"]
+        },
+        {
+            "name": "Peyto Lake",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/27000/27722-Peyto-Lake.jpg",
+            "maps_url": "https://www.google.com/maps/place/Peyto+Lake/@51.7261217,-116.5355059,14z/data=!4m6!3m5!1s0x537778716d70aaaf:0xa7adc4f7892b437b!8m2!3d51.7255153!4d-116.5226977!16zL20vMDR6NXdy?entry=ttu",
+            "country": ["Canada"]
+        },
+        {
+            "name": "Phi Phi Islands",
+            "photo": "https://youimg1.tripcdn.com/target/100u1f000001gq9zi54A8.jpg?proc=source%2Ftrip",
+            "maps_url": "https://www.google.com/maps/place/Phi+Phi+Islands/@7.7709287,98.7545992,13z/data=!4m6!3m5!1s0x304e20be764e3d0d:0xbf9db8781a549f71!8m2!3d7.740738!4d98.77841!16zL20vMDJidmYz?entry=ttu",
+            "country": ["Thailand"]
+        },
+        {
+            "name": "Playa de Las Catedrales",
+            "photo": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2019/12/Playa-de-Las-Catedrales-feature.jpg",
+            "maps_url": "https://www.google.com/maps/place/As+Catedrais+beach/@43.5540491,-7.1588721,17.58z/data=!4m6!3m5!1s0xd3180bdae870a2d:0x1bedf2aa65a720b7!8m2!3d43.5540577!4d-7.1572259!16s%2Fm%2F09v8c1m?entry=ttu",
+            "country": ["Spain"]
+        },
+        {
+            "name": "Plitvice Lakes National Park",
+            "photo": "https://minoritynomad.com/wp-content/uploads/2014/06/Tourist-at-Pltivice-Lakes-National-Park-Croatia.jpg",
+            "maps_url": "https://www.google.com/maps/place/Plitvice+Lakes+National+Park/@44.8683933,15.5415136,12.63z/data=!4m6!3m5!1s0x47615e6cfed90f3d:0x51a8ff8379a5e70!8m2!3d44.8653966!4d15.5820119!16zL20vMDF5Nnk3?entry=ttu",
+            "country": ["Croatia"]
+        },
+        {
+            "name": "Pompeii",
+            "photo": "https://wallpapercave.com/wp/wp3623516.jpg",
+            "maps_url": "https://www.google.com/maps/place/Pompeii+(UNESCO)/@40.7482095,14.4803884,17z/data=!4m6!3m5!1s0x133bbcbaf7efeeef:0x7fe5eac938e68429!8m2!3d40.7482705!4d14.4820836!16s%2Fg%2F11ggw23fdp?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Potala Palace",
+            "photo": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/02/17133036/potala-palace-tibet-1.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Potala+Palace/@29.655648,91.1163691,17z/data=!4m6!3m5!1s0x3761317244846eab:0x4ae80d857ec10c19!8m2!3d29.6554942!4d91.1185792!16zL20vMDJkYnd3?entry=ttu",
+            "country": ["China"]
+        },
+        {
+            "name": "Railay West Beach",
+            "photo": "https://www.placesofjuma.com/wp-content/uploads/2019/07/Railay-Beach-Krabi-2.jpg",
+            "maps_url": "https://www.google.com/maps/place/Railay+West+Beach/@8.0119115,98.8352945,17z/data=!4m6!3m5!1s0x3051ea9e231c985d:0x88cd797ac0cd063f!8m2!3d8.0132105!4d98.8370889!16s%2Fg%2F1th89fms?entry=ttu",
+            "country": ["Thailand"]
+        },
+        {
+            "name": "Red Rocks Park and Amphitheatre",
+            "photo": "https://www.worldatlas.com/upload/48/46/b5/shutterstock-251767525.jpg",
+            "maps_url": "https://www.google.com/maps/place/Red+Rocks+Park+and+Amphitheatre/@39.6652796,-105.2068424,17.87z/data=!4m6!3m5!1s0x876b82da0e6cc8d7:0x7c83e707392cd6ad!8m2!3d39.6655381!4d-105.2052116!16zL20vMDJiamo1?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Red Square",
+            "photo": "https://content.api.news/v3/images/bin/ed86809cfc6c4288ec7ab6a18ca7a475",
+            "maps_url": "https://www.google.com/maps/place/Red+Square/@55.754205,37.6191857,17z/data=!4m6!3m5!1s0x46b54a5a738fa419:0x7c347d506b52311f!8m2!3d55.7539303!4d37.620795!16zL20vMGhtXzc?entry=ttu",
+            "country": ["Russia"]
+        },
+        {
+            "name": "Redwood National and State Parks",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/214000/214606-Eureka-And-Vicinity.jpg",
+            "maps_url": "https://www.google.com/maps/place/Redwood+National+and+State+Parks/@41.398761,-124.0664136,13.79z/data=!4m6!3m5!1s0x54d06636f5417fa5:0x36cf3266953b5f8e!8m2!3d41.4017156!4d-124.041711!16zL20vMDM4eTIx?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Registan Square",
+            "photo": "https://www.irtsociety.com/wp-content/uploads/2022/12/Registan-Square-scaled.jpg",
+            "maps_url": "https://www.google.com/maps/place/Registan+Square/@39.6553502,66.9739586,17z/data=!4m6!3m5!1s0x3f4d18b7c2e59337:0x532c8e039ecc92af!8m2!3d39.6551974!4d66.9759327!16zL20vMDNxeTZi?entry=ttu",
+            "country": ["Uzbekistan"]
+        },
+        {
+            "name": "Reynisfjara Beach",
+            "photo": "https://iceland.nordicvisitor.com/images/1/iceland/summer/reynisdrangar-sunset-iceland.jpg",
+            "maps_url": "https://www.google.com/maps/place/Reynisfjara+Beach/@63.4077444,-19.0736359,14.13z/data=!4m14!1m7!3m6!1s0x48d74a2cc76e98e7:0x1dbd6ece1658df56!2sReynisdrangar!8m2!3d63.4027778!4d-19.0283333!16s%2Fm%2F027kvnv!3m5!1s0x48d74984d567267d:0xe07954a3f4b36bd5!8m2!3d63.4057404!4d-19.0716193!16s%2Fg%2F1tfg77rb?entry=ttu",
+            "country": ["Iceland"]
+        },
+        {
+            "name": "Rhine Falls",
+            "photo": "https://www.swissepictours.com/images/tours/rhine-falls/1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Rhine+Falls/@47.6781331,8.6138439,17z/data=!4m6!3m5!1s0x47907f4c7ac3c9d5:0x7a5d38fc70918927!8m2!3d47.6780897!4d8.6154486!16zL20vMGpsM3A?entry=ttu",
+            "country": ["Switzerland"]
+        },
+        {
+            "name": "Sacré Coeur de Montmartre",
+            "photo": "https://www.parisperfect.com/g/photos/upload/sml_762877544-1484631931-Sacre-HERO.jpg",
+            "maps_url": "https://www.google.com/maps/place/The+Basilica+of+Sacr%C3%A9-C%C5%93ur+de+Montmartre/@48.8867309,2.3423016,18.17z/data=!3m1!5s0x47e66e5ccbbf7941:0xe822cfb990602edb!4m6!3m5!1s0x47e66e4334868de3:0xcfc3870abe2b8519!8m2!3d48.8867046!4d2.3431043!16s%2Fg%2F1tdm30l7?entry=ttu",
+            "country": ["France"]
+        },
+        {
             "name": "Salar de Uyuni",
             "photo": "https://images.rove.me/w_1920,q_85/xzw4pax2k3jahx4hagfh/bolivia-salt-flats-or-salar-de-uyuni.jpg",
             "maps_url": "https://www.google.com/maps/place/Uyuni+Salt+Flat/@-19.6154381,-68.7150963,7.38z/data=!4m6!3m5!1s0x915584b325e18bd7:0xce4183a158278b6!8m2!3d-20.1337772!4d-67.4891345!16zL20vMDFjYmN2?entry=ttu",
             "country": ["Bolivia"]
+        },
+        {
+            "name": "Santorini",
+            "photo": "https://www.santoriniexperts.com/wp-content/uploads/sunset-santorini.jpg",
+            "maps_url": "https://www.google.com/maps/place/Santorini/@36.4031189,25.3629495,12z/data=!4m6!3m5!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092!16zL20vMDcwdDk?entry=ttu",
+            "country": ["Greece"]
+        },
+        {
+            "name": "Sarakiniko Beach",
+            "photo": "https://www.travel.gr/wp-content/uploads/2022/08/sarakiniko1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sarakiniko+Beach/@39.2868358,20.3379616,17z/data=!4m6!3m5!1s0x135c62a47cdf2249:0x4be68a934d936a86!8m2!3d39.2872749!4d20.3397248!16s%2Fm%2F0b7505h?entry=ttu",
+            "country": ["Greece"]
+        },
+        {
+            "name": "Saturnia",
+            "photo": "https://www.placesofjuma.com/wp-content/uploads/2020/10/Saturnia-2-scaled.jpg",
+            "maps_url": "https://www.google.com/maps/place/58014+Saturnia,+Province+of+Grosseto,+Italy/@42.6652991,11.5036283,17z/data=!4m6!3m5!1s0x1329035c5753a3a5:0xa082c9383c1e9f0!8m2!3d42.6632327!4d11.5042774!16zL20vMDhmZzEx?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Schönbrunn Palace",
+            "photo": "https://images2.alphacoders.com/555/555344.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sch%C3%B6nbrunn+Palace/@48.1857301,16.3107255,17z/data=!4m6!3m5!1s0x476da8091cc07cbf:0x4e69ba5de4ea8bc9!8m2!3d48.1858124!4d16.312764!16zL20vMDE1X2tx?entry=ttu",
+            "country": ["Austria"]
+        },
+        {
+            "name": "Sea of Stars",
+            "photo": "https://wallpapercave.com/wp/wp4191095.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sea+of+Stars/@5.8558871,72.9902107,15.54z/data=!4m6!3m5!1s0x3b6b6c746c60fcd7:0xf6294db2a7c95e17!8m2!3d5.8614915!4d72.9884181!16s%2Fg%2F11c1t58dy7?entry=ttu",
+            "country": ["Maldives"]
+        },
+        {
+            "name": "Seljalandsfoss",
+            "photo": "https://www.colbybrownphotography.com/wp-content/gallery/iceland-summer-images/Seljalandsfoss-Waterfall-Sunset-Iceland-Summer-Photo-Workshop.jpg",
+            "maps_url": "https://www.google.com/maps/place/Seljalandsfoss/@63.6156178,-19.9956163,15.54z/data=!4m6!3m5!1s0x48d71eade8ef2415:0xae01e6205209178d!8m2!3d63.6156232!4d-19.9885688!16zL20vMDMyZ2tq?entry=ttu",
+            "country": ["Iceland"]
+        },
+        {
+            "name": "Sequoia National Park",
+            "photo": "https://media.cntraveler.com/photos/6464e626ee4e39263d8afbf6/16:9/w_2560%2Cc_limit/Sequoia%2520National%2520Park_GettyImages-85651426.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sequoia+National+Park/@36.4842005,-118.5981177,13.75z/data=!4m10!1m2!2m1!1sSequoia+National+Park!3m6!1s0x80bffb7d2d196579:0x440adff99f1ef464!8m2!3d36.4863668!4d-118.5657516!15sChVTZXF1b2lhIE5hdGlvbmFsIFBhcmtaFyIVc2VxdW9pYSBuYXRpb25hbCBwYXJrkgENbmF0aW9uYWxfcGFya-ABAA!16zL20vMDFxdF96?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Serengeti National Park",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/lion-in-the-grass-in-serengeti-national-park.jpg",
+            "maps_url": "https://www.google.com/maps/place/Serengeti+National+Park/@-2.3387694,34.8172711,13.5z/data=!4m6!3m5!1s0x1832cdd680dac6d1:0x2ea157f39deb3945!8m2!3d-2.3333333!4d34.8333333!16zL20vMGdrM24?entry=ttu",
+            "country": ["Tanzania"]
+        },
+        {
+            "name": "Sheikh Zayed Grand Mosque",
+            "photo": "https://media.cntraveler.com/photos/5dbb4e61bb86d20008f91fe2/16:9/w_2560%2Cc_limit/Abu%2520Dhabi_GettyImages-167894964.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sheikh+Zayed+Grand+Mosque/@24.4127676,54.4730036,17.13z/data=!4m6!3m5!1s0x3e5e4273e8dafe49:0x248fbbcbefe2afc7!8m2!3d24.4128334!4d54.4749754!16s%2Fm%2F025_jz8?entry=ttu",
+            "country": ["United Arab Emirates"]
+        },
+        {
+            "name": "Shwedagon Pagoda",
+            "photo": "https://mediaim.expedia.com/destination/1/3d75225062ceabbb10a602f5e385b9ca.jpg",
+            "maps_url": "https://www.google.com/maps/place/Shwedagon+Pagoda/@16.7983057,96.1483879,17z/data=!4m6!3m5!1s0x30c1eb5e3fffe455:0xb7d3ad319654cf6e!8m2!3d16.7983725!4d96.1495573!16zL20vMDZ2cGR4?entry=ttu",
+            "country": ["Myanmar"]
+        },
+        {
+            "name": "Sidi Bou Said",
+            "photo": "https://carthagemagazine.com/wp-content/uploads/2020/05/Sidi-Bou-Said.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sidi+Bou+Said,+Carthage,+Tunisia/@36.8717475,10.3365468,15z/data=!4m6!3m5!1s0x12e2b4995c30ee4d:0x674ff5794dd29!8m2!3d36.8698325!4d10.3413691!16zL20vMDl0dnd3?entry=ttu",
+            "country": ["Tunisia"]
+        },
+        {
+            "name": "Sigiriya Rock Fortress",
+            "photo": "https://global-uploads.webflow.com/5e93226606600f15bcd785e2/64423b6ea6ec41648f2a66b5_dylan-shaw-smUAKwMT8XA-unsplash%20(3).jpg",
+            "maps_url": "https://www.google.com/maps/place/Sigiriya/@7.9567936,80.7587764,17z/data=!4m6!3m5!1s0x3afca15b724c9ab3:0xab1771275b370d52!8m2!3d7.9570327!4d80.760257!16zL20vMDRnX2tr?entry=ttu",
+            "country": ["Sri Lanka"]
+        },
+        {
+            "name": "Sistine Chapel",
+            "photo": "https://media.architecturaldigest.com/photos/5d92502808907e000947de4c/16:9/w_2560%2Cc_limit/GettyImages-78919478.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sistine+Chapel/@41.9031983,12.4525201,17z/data=!4m6!3m5!1s0x132f6065c523afdb:0xab16c8877fb53e22!8m2!3d41.9029468!4d12.4544835!16zL20vMGtibHM?entry=ttu",
+            "country": ["Vatican City"]
+        },
+        {
+            "name": "Sossusvlei",
+            "photo": "https://www.andbeyond.com/wp-content/uploads/sites/5/%C2%A9-Wilderness-Dead-Vlei-in-Namib-desert-Namibia-Africa.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sossusvlei/@-24.7247684,15.338804,12.42z/data=!4m6!3m5!1s0x1c720c3eabfc5f49:0x9f296da909e19aac!8m2!3d-24.7273906!4d15.3423909!16s%2Fm%2F0262jgj?entry=ttu",
+            "country": ["Namibia"]
+        },
+        {
+            "name": "Statue of Liberty",
+            "photo": "https://www.worldatlas.com/upload/f4/d8/7b/shutterstock-1397031029.jpg",
+            "maps_url": "https://www.google.com/maps/place/Statue+of+Liberty/@40.6892534,-74.0470753,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25090129c363d:0x40c6a5770d25022b!8m2!3d40.6892494!4d-74.0445004!16zL20vMDcycDg?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Stonehenge",
+            "photo": "https://image.jimcdn.com/app/cms/image/transf/none/path/s2217cd0bb1220415/image/i6a6eb50d4fda1ed2/version/1683965660/stonehenge-at-sunset.jpg",
+            "maps_url": "https://www.google.com/maps/place/Stonehenge/@51.1818538,-1.8292494,15.25z/data=!4m6!3m5!1s0x4873e63b850af611:0x979170e2bcd3d2dd!8m2!3d51.178882!4d-1.826215!16zL20vMDZ3Zmc?entry=ttu",
+            "country": ["England"]
+        },
+        {
+            "name": "Sugarloaf Mountain",
+            "photo": "https://images.squarespace-cdn.com/content/v1/5a87961cbe42d637c54cab93/1553292310482-0GFMJHB133A26TN6ACOG/sugar-loaf-mountain-guide%2B%2Brio-de-janeiro",
+            "maps_url": "https://www.google.com/maps/place/Sugarloaf+Mountain/@-22.9476574,-43.1616568,15z/data=!4m6!3m5!1s0x9980409039f845:0x8075d7bcdfbcb48c!8m2!3d-22.9492586!4d-43.1545757!16zL20vMDYzNGsy?entry=ttu",
+            "country": ["Brazil"]
+        },
+        {
+            "name": "Sydney Opera House",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/474000/474771-Australia.jpg",
+            "maps_url": "https://www.google.com/maps/place/Sydney+Opera+House/@-33.857065,151.2132368,17z/data=!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0?entry=ttu",
+            "country": ["Australia"]
+        },
+        {
+            "name": "Ta Prohm Temple",
+            "photo": "https://ak-d.tripcdn.com/images/10030p000000fi9uq9677.jpg?proc=source%2Ftrip",
+            "maps_url": "https://www.google.com/maps/place/Ta+Prohm+Temple/@13.4352196,103.8848072,15.58z/data=!4m6!3m5!1s0x311015dfb229a5df:0xcfb9459e2f62051e!8m2!3d13.4347941!4d103.8893041!16zL20vMDI5eG40?entry=ttu",
+            "country": ["Cambodia"]
+        },
+        {
+            "name": "Table Mountain",
+            "photo": "https://media.cntraveler.com/photos/5b742b191f8f5f5aacc37829/16:9/w_2560,c_limit/Table-Mountain_GettyImages-103891332.jpg",
+            "maps_url": "https://www.google.com/maps/place/Table+Mountain/@-33.9641597,18.4042555,15.25z/data=!4m9!1m2!2m1!1sTable+Mountain!3m5!1s0x1dcc67e657e6046d:0xaf549ac0fcfa4362!8m2!3d-33.962822!4d18.4098406!16s%2Fg%2F11bc69937g?entry=ttu",
+            "country": ["South Africa"]
+        },
+        {
+            "name": "Taipei 101",
+            "photo": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Taipei-101.jpg",
+            "maps_url": "https://www.google.com/maps/place/Taipei+101+Observatory/@25.0340817,121.5637528,17z/data=!4m6!3m5!1s0x3442abb6e9d93249:0xd508f7b3aa02d931!8m2!3d25.0336752!4d121.5648831!16s%2Fg%2F113h89pf8?entry=ttu",
+            "country": ["Taiwan"]
         },
         {
             "name": "Taj Mahal",
@@ -85,16 +1081,196 @@
             "country": ["India"]
         },
         {
+            "name": "Tatev Monastery",
+            "photo": "https://static.wixstatic.com/media/86e751_03a323d3b28f4c7793e59e595c7d9968~mv2.jpeg/v1/fill/w_1920,h_1281,al_c,q_90/351E6E8A-E2A7-46D0-95F6-47C2ACCECC1E.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Tatev+Monastery/@39.3793793,46.24811,17z/data=!4m6!3m5!1s0x401606656a198faf:0xeef9e3e00882096!8m2!3d39.3793088!4d46.250288!16zL20vMGc1dHBf?entry=ttu",
+            "country": ["Armenia"]
+        },
+        {
+            "name": "Terracotta Army Museum",
+            "photo": "https://smarthistory.org/wp-content/uploads/2019/08/warriors.jpg",
+            "maps_url": "https://www.google.com/maps/place/Emperor+Qinshihuang's+Mausoleum+Site+Museum/@34.3839032,109.2775758,17.83z/data=!4m6!3m5!1s0x3664a72d821403a3:0xc3e33e74e9e33fc7!8m2!3d34.3841153!4d109.2784918!16zL20vMDEzMXBx?entry=ttu",
+            "country": ["China"]
+        },
+        {
+            "name": "The Arch of Cabo San Lucas",
+            "photo": "https://villacdn.villagroupresorts.com/uploads/template_destination/image/3/optimizada_los-cabos.jpg",
+            "maps_url": "https://www.google.com/maps/place/The+Arch+of+Cabo+San+Lucas/@22.8762566,-109.8975543,17z/data=!4m6!3m5!1s0x86af4b2238a3b8e5:0x23f3434fc1192155!8m2!3d22.8759577!4d-109.8946738!16zL20vMDk0dzg2?entry=ttu",
+            "country": ["Mexico"]
+        },
+        {
+            "name": "The Bund",
+            "photo": "https://res.cloudinary.com/odysseytraveller/image/fetch/f_auto,q_auto,dpr_auto,r_4,w_765,h_535.5,c_limit/https://cdn.odysseytraveller.com/app/uploads/2019/01/GettyImages-169937666.jpg",
+            "maps_url": "https://www.google.com/maps/place/The+Bund/@31.2398529,121.4892252,17z/data=!4m6!3m5!1s0x35b270578b874861:0x4d56fbed10d1af64!8m2!3d31.2402611!4d121.490577!16zL20vMDJiYnpx?entry=ttu",
+            "country": ["China"]
+        },
+        {
+            "name": "The Grand Palace",
+            "photo": "https://a.cdn-hotels.com/gdcs/production168/d707/c3156d7b-ce5a-4a5c-9a99-002b0ff57fe8.jpg",
+            "maps_url": "https://www.google.com/maps/place/The+Grand+Palace/@13.7496677,100.4904668,17.58z/data=!4m6!3m5!1s0x30e2994e316c363f:0x2a6c77dd93ef4c41!8m2!3d13.7498558!4d100.4915765!16zL20vMDJqaDg5?entry=ttu",
+            "country": ["Thailand"]
+        },
+        {
+            "name": "The Great Pyramid of Giza",
+            "photo": "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg",
+            "maps_url": "https://www.google.com/maps/place/The+Great+Pyramid+of+Giza/@29.978238,31.1307751,17z/data=!4m6!3m5!1s0x14584587ac8f291b:0x810c2f3fa2a52424!8m2!3d29.9791705!4d31.1342046!16zL20vMDM2bWs?entry=ttu",
+            "country": ["Egypt"]
+        },
+        {
+            "name": "Tian Tan Buddha",
+            "photo": "https://www.awaygowe.com/wp-content/uploads/2012/12/hongkong-bigbuddha-featured2.webp",
+            "maps_url": "https://www.google.com/maps/place/Tian+Tan+Buddha/@22.2546269,113.900195,15.58z/data=!4m6!3m5!1s0x340158f66af64e31:0x4d0fe4264be5f070!8m2!3d22.2539847!4d113.904984!16zL20vMDJibF95?entry=ttu",
+            "country": ["Hong Kong"]
+        },
+        {
+            "name": "Times Square",
+            "photo": "https://wallpapercave.com/wp/4AmjRsr.jpg",
+            "maps_url": "https://www.google.com/maps/place/Times+Square/@40.7579462,-73.9872056,17z/data=!4m6!3m5!1s0x89c25855c6480299:0x55194ec5a1ae072e!8m2!3d40.7579747!4d-73.9855426!16zL20vMDdxZHI?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Tioman Island",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/532000/532844-tioman-island.jpg",
+            "maps_url": "https://www.google.com/maps/place/Tioman+Island/@2.8066511,104.0879334,12z/data=!3m1!4b1!4m6!3m5!1s0x31c51b92f94cd239:0xb7b7e438fc01e28e!8m2!3d2.7902494!4d104.1698463!16zL20vMDFubWIx?entry=ttu",
+            "country": ["Malaysia"]
+        },
+        {
+            "name": "Torres del Paine National Park",
+            "photo": "https://cdn.expeditions.com/globalassets/expedition-stories/get-to-know-torres-del-paine-patagonias-crown-jewel/torres-del-paine-guide-main.png?width=1920&height=1080&crop=0,0,3000,1687&fit=crop&quality=50",
+            "maps_url": "https://www.google.com/maps/place/Torres+del+Paine+National+Park/@-50.9272596,-73.480627,12.04z/data=!4m6!3m5!1s0xbda51b0183dbaf07:0xbd9f2657451ace58!8m2!3d-50.9423262!4d-73.4067879!16s%2Fm%2F02p92st?entry=ttu",
+            "country": ["Chile"]
+        },
+        {
+            "name": "Tower Bridge",
+            "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/90000/90848-London.jpg",
+            "maps_url": "https://www.google.com/maps/place/Tower+Bridge/@51.505482,-0.077511,17z/data=!3m1!5s0x487603461c01f6e7:0x399d0f3fbe9f54f5!4m6!3m5!1s0x487603438b65db49:0x9e78421a085a6f2d!8m2!3d51.5054564!4d-0.0753565!16zL20vMGdncDQ?entry=ttu",
+            "country": ["England"]
+        },
+        {
+            "name": "Trevi Fountain",
+            "photo": "https://a.cdn-hotels.com/gdcs/production40/d1021/07d0ffec-d9cc-4a47-a139-076f7a64b094.jpg",
+            "maps_url": "https://www.google.com/maps/place/Trevi+Fountain/@41.9010373,12.480698,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6053278340d5:0xf676f1e1cc02bbb6!8m2!3d41.9009325!4d12.483313!16zL20vMDF4Z3Q1?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Tulum",
+            "photo": "https://actiontourguide.com/wp-content/uploads/2021/02/Tulum-Ruins-Top-View-scaled.jpg",
+            "maps_url": "https://www.google.com/maps/place/Tulum/@20.2186675,-87.4824301,13z/data=!4m15!1m8!3m7!1s0x8f4fd40310e42a4b:0xeedc0db93ff9ab7!2sTulum,+Quintana+Roo,+Mexico!3b1!8m2!3d20.2114185!4d-87.4653502!16s%2Fm%2F02q9y44!3m5!1s0x8f4fd17d16293265:0xff68d6fca492c963!8m2!3d20.2149504!4d-87.4294212!16zL20vMDF6c3c4?entry=ttu",
+            "country": ["Mexico"]
+        },
+        {
+            "name": "Tunnel of Love",
+            "photo": "https://wallpapers.com/images/hd/ukraine-tunnel-of-love-l69in9ykkj44366p.jpg",
+            "maps_url": "https://www.google.com/maps/place/Tunnel+of+Love/@50.7440141,25.9920737,12.17z/data=!4m6!3m5!1s0x472f6794eb3359ad:0xd64867ba48ab1f13!8m2!3d50.7505626!4d26.0439697!16s%2Fm%2F011qbyv4?entry=ttu",
+            "country": ["Ukraine"]
+        },
+        {
+            "name": "Ubud",
+            "photo": "https://www.ultimatebali.com/wp-content/uploads/2014/06/Ubud-Travel-Guide-02.jpg",
+            "maps_url": "https://www.google.com/maps/place/Ubud,+Gianyar+Regency,+Bali,+Indonesia/@-8.4960682,115.2454399,14z/data=!3m1!4b1!4m6!3m5!1s0x2dd23d739f22c9c3:0x54a38afd6b773d1c!8m2!3d-8.5068536!4d115.2624778!16zL20vMDRuMDk5?entry=ttu",
+            "country": ["Indonesia"]
+        },
+        {
+            "name": "Uluru",
+            "photo": "https://www.countryandtownhouse.com/wp-content/uploads/2023/01/Red-Planet-Uluru-cover.jpg",
+            "maps_url": "https://www.google.com/maps/place/Uluru/@-25.3401968,131.0221685,14.13z/data=!4m6!3m5!1s0x2b236c2b6d625223:0x43a8cd4d9bc55f21!8m2!3d-25.3444277!4d131.0368822!16zL20vMF81eGM?entry=ttu",
+            "country": ["Australia"]
+        },
+        {
+            "name": "Uluwatu Temple",
+            "photo": "https://a.cdn-hotels.com/gdcs/production107/d703/abf04cc6-61b3-47c0-9aad-2d79daa1eed6.jpg",
+            "maps_url": "https://www.google.com/maps/place/Uluwatu+Temple/@-8.8292056,115.0845498,18z/data=!4m6!3m5!1s0x2dd24ffc20cb8191:0xcb98d1ba7db0495!8m2!3d-8.8291432!4d115.0849069!16zL20vMGRuNWp4?entry=ttu",
+            "country": ["Indonesia"]
+        },
+        {
+            "name": "Ushuaia",
+            "photo": "https://images.ctfassets.net/bth3mlrehms2/1l1crxyHeTNuHe8pq0MEB9/6318d64be2965df437f86cb8c389e2ef/Su__damerika_-_Argentinien_-_Ushuaia_mit_Bergen.jpg?w=3865&h=2174&fl=progressive&q=50&fm=jpg",
+            "maps_url": "https://www.google.com/maps/place/Ushuaia,+Tierra+del+Fuego+Province,+Argentina/@-54.8080852,-68.349623,13z/data=!4m6!3m5!1s0xbc4c22b5bad109bf:0x5498473dba43ebfc!8m2!3d-54.8019121!4d-68.3029511!16zL20vMDF6ZG5z?entry=ttu",
+            "country": ["Argentina"]
+        },
+        {
+            "name": "Valle de Cocora",
+            "photo": "https://www.wanderingstus.com/wp-content/uploads/2022/03/wanderingstus-cocora-valley-4-scaled.jpg",
+            "maps_url": "https://www.google.com/maps/place/Valle+de+Cocora/@4.6383087,-75.4907334,16.13z/data=!4m6!3m5!1s0x8e38924a03c5355b:0x8d19427653a3da27!8m2!3d4.637712!4d-75.48907!16s%2Fm%2F027cc1f?entry=ttu",
+            "country": ["Colombia"]
+        },
+        {
+            "name": "Valley of the Kings",
+            "photo": "https://cdn.britannica.com/82/116482-050-72B23431/Mortuary-temple-Hatshepsut-Valley-of-the-Kings.jpg",
+            "maps_url": "https://www.google.com/maps/place/Valley+of+the+Kings/@25.7404883,32.6003522,18z/data=!4m6!3m5!1s0x14493d8ab5defed7:0x718fccf6a2e3a9da!8m2!3d25.7401643!4d32.601411!16zL20vMDhtOHc2?entry=ttu",
+            "country": ["Egypt"]
+        },
+        {
+            "name": "Vatnajökull National Park",
+            "photo": "https://i.pinimg.com/originals/d8/13/b7/d813b724651d5a130b1556897923f90b.jpg",
+            "maps_url": "https://www.google.com/maps/place/Vatnaj%C3%B6kull+National+Park/@64.7915259,-17.3076064,11.75z/data=!4m6!3m5!1s0x48d1dbe88c54358d:0x8d9869da2d6b447b!8m2!3d64.7843002!4d-17.2091078!16s%2Fm%2F0479l13?entry=ttu",
+            "country": ["Iceland"]
+        },
+        {
+            "name": "Venice",
+            "photo": "https://images3.alphacoders.com/846/84689.jpg",
+            "maps_url": "https://www.google.com/maps/place/Venice,+Metropolitan+City+of+Venice,+Italy/@45.4253919,12.2266469,11z/data=!4m6!3m5!1s0x477eb1daf1d63d89:0x7ba3c6f0bd92102f!8m2!3d45.4408474!4d12.3155151!16zL20vMDdfcGY?entry=ttu",
+            "country": ["Italy"]
+        },
+        {
+            "name": "Victoria Falls",
+            "photo": "https://www.discoverafrica.com/wp-content/uploads/2021/11/1-52.jpg",
+            "maps_url": "https://www.google.com/maps/place/Victoria+Falls/@-17.9256591,25.8559492,16.04z/data=!4m6!3m5!1s0x194feff9da0bf2f9:0x8b054663df18d568!8m2!3d-17.9255206!4d25.8585336!16zL20vMDFiYmd5?entry=ttu",
+            "country": ["Zambia", "Zimbabwe"]
+        },
+        {
+            "name": "Voidokilia Beach",
+            "photo": "https://www.peloponnesetour.com/wp-content/uploads/2016/07/voido-1.jpg",
+            "maps_url": "https://www.google.com/maps/place/Voidokilia+Beach/@36.9643816,21.658739,17z/data=!4m6!3m5!1s0x136112a64def874d:0x88c3e552a24fa299!8m2!3d36.9636234!4d21.6627622!16s%2Fm%2F047bbwj?entry=ttu",
+            "country": ["Greece"]
+        },
+        {
+            "name": "Wadi Rum",
+            "photo": "https://i0.wp.com/travellingtheworldsolo.com/wp-content/uploads/2017/07/p3151152.jpg?ssl=1",
+            "maps_url": "https://www.google.com/maps/place/Wadi+Rum+Protected+Area/@29.5564533,35.3964418,14z/data=!4m6!3m5!1s0x150093a5d3b537b3:0xe9885592958b5d07!8m2!3d29.555872!4d35.4076008!16zL20vMDU3N3F4?entry=ttu",
+            "country": ["Jordan"]
+        },
+        {
             "name": "Waitomo Glowworm Caves",
             "photo": "https://images.rove.me/w_1920,q_85/qzfq4awhtabwee9nilrk/new-zealand-waitomo-glowworm-caves.jpg",
             "maps_url": "https://www.google.com/maps/place/Waitomo+Glowworm+Caves/@-38.1139285,175.0389425,10.29z/data=!4m6!3m5!1s0x6d6cb77ef3e3547d:0x922cb1e1fd309ff2!8m2!3d-38.2607014!4d175.1036062!16s%2Fm%2F026vvg7?entry=ttu",
             "country": ["New Zealand"]
         },
         {
+            "name": "Wat Rong Khun",
+            "photo": "https://thailandtravelmap.com/wp-content/uploads/2020/04/wat-rong-khun.jpeg",
+            "maps_url": "https://www.google.com/maps/place/Wat+Rong+Khun+-+White+Temple/@19.8233527,99.7610241,17z/data=!4m6!3m5!1s0x30d7b7dfce59940f:0x2afcd50d8eacb7a3!8m2!3d19.8232669!4d99.7627085!16s%2Fm%2F02rvrrj?entry=ttu",
+            "country": ["Thailand"]
+        },
+        {
+            "name": "White Sands National Park",
+            "photo": "https://media.cntraveler.com/photos/5e064811dd3c6a0009234419/16:9/w_2560%2Cc_limit/New-Mexico-White-Sands-GettyImages-1026457358.jpg",
+            "maps_url": "https://www.google.com/maps/place/White+Sands+National+Park/@32.7730429,-106.3688324,11.33z/data=!4m6!3m5!1s0x86e06303071072f3:0x36d1188767bf20c3!8m2!3d32.7872403!4d-106.3256816!16zL20vMDF3c19y?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Whitehaven Beach",
+            "photo": "https://windows10spotlight.com/wp-content/uploads/2023/07/c84c8b6b2a53c4d12d58d71ede88c8ab.jpg",
+            "maps_url": "https://www.google.com/maps/place/Whitehaven+Beach/@-20.272827,149.0220745,14z/data=!4m6!3m5!1s0x6bd8543936f3a3a1:0x808bfe71f86a4e1e!8m2!3d-20.2824324!4d149.038854!16s%2Fm%2F06w20cm?entry=ttu",
+            "country": ["Australia"]
+        },
+        {
             "name": "Zhangjiajie National Forest Park",
             "photo": "https://www.worldatlas.com/r/w1200-q80/upload/dd/ad/19/shutterstock-449250082.jpg",
             "maps_url": "https://www.google.com/maps/place/Zhangjiajie+National+Forest+Park/@29.2865003,110.2780378,10.29z/data=!4m6!3m5!1s0x369bafca1a43aca1:0xa18079ec65a40b6f!8m2!3d29.315305!4d110.434767!16zL20vMDljZ3Bt?entry=ttu",
             "country": ["China"]
+        },
+        {
+            "name": "Zion National Park",
+            "photo": "https://images8.alphacoders.com/813/thumb-1920-813552.jpg",
+            "maps_url": "https://www.google.com/maps/place/Zion+National+Park/@37.2939168,-113.1842347,11z/data=!4m6!3m5!1s0x80caead08844f8d9:0x7c2e3a15aa3656f5!8m2!3d37.2982022!4d-113.0263005!16zL20vMDE2MjZ4?entry=ttu",
+            "country": ["United States"]
+        },
+        {
+            "name": "Zlatni Rat",
+            "photo": "https://www.placesofjuma.com/wp-content/uploads/2019/11/Zlatni-Rat-2.jpg",
+            "maps_url": "https://www.google.com/maps/place/Golden+Horn+Beach/@43.2583603,16.6326483,17z/data=!4m6!3m5!1s0x134a8406687f534f:0xcfd969aec7954ea0!8m2!3d43.2575474!4d16.6342783!16s%2Fm%2F04cqtgg?entry=ttu",
+            "country": ["Croatia"]
         }
     ]
 }
