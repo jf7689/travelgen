@@ -52,12 +52,6 @@ export function Landmark() {
         setLandmarkList(importList);
     }
 
-    // Checking to see if varibles are as expected
-    function check() {
-        console.log(landmark);
-        console.log(landmarkList);
-    }
-
     // Generate initial landmark when arriving on site
     useEffect(() => {
         randomLandmark();
@@ -80,9 +74,6 @@ export function Landmark() {
                 <button className={styles.landmarkBtn} onClick={randomLandmark}>Generate Destination</button>
                 <button className={styles.landmarkBtn} onClick={addLandmark}>Add To Travel List</button>
                 <button className={styles.landmarkBtn} onClick={clearTraveList}>Reset Travel List</button>
-                <div>
-                <button onClick={check}>Check Landmark</button>
-                </div>
             </div>
         </div>
     );
